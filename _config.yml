@@ -1,0 +1,22 @@
+title:            Maarten Steenhagen
+subtitle:		  Philosophy of psychology and perception
+description:      Maarten Steenhagen is a philosopher writing about perception and the mind
+image:			  http://dl.dropboxusercontent.com/u/14525704/portrait.jpg
+url:			http://msteenhagen.github.io
+
+name: 	Maarten Steenhagen
+email: 	m.steenhagen@mail.utoronto.ca
+
+markdown:    kramdown
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: 	UA-50598482-1
+google_verify: 		UA-50598482-1 
+
+# CV location (I envisage a PDF file here)
+cv:			http://bit.ly/UDmT6U
+
+# Social media / online presence
+twitter:	msteenhagen
+github:		msteenhagen
+skype: 		maartensteenhagen

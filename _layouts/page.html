@@ -1,0 +1,15 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+    {% include head.html %}
+  <body id="author">
+    {% if site.image %}
+      <div id="portrait" class="imgix-fluid-bg" data-src="{{ site.image }}"></div>
+    {% else %}
+      <div id="portrait" class="imgix-fluid-bg"></div>
+    {% endif %}
+    <div id="bio">
+      <p>{{ content }}</p>
+    </div>
+    {% include socialicons.html %}
+  </body>
+</html>
