@@ -6,7 +6,7 @@ Maarten Steenhagen is a philosopher, writer and coffee lover known for his wild 
 
 He is a Research Fellow in [Bence Nanay](http://uahost.uantwerpen.be/bence.nanay/)'s group at the University of Antwerp. He has a Ph.D. in philosophy from [UCL](https://www.ucl.ac.uk/philosophy), and recently was a visiting researcher at the [University of Toronto](http://www.philosophy.utoronto.ca).
 
-Maarten thinks and writes about philosophy of mind and perception, psychology, and the history of analytic philosophy.
+Maarten thinks and writes about current developments in philosophy of mind and perception, and the history of analytic philosophy.
 
 His doctoral work, [_Appearance and Representation_](http://msteenhagen.github.io/Appearance-and-representation/), defends a new approach to images. 
 
