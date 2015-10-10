@@ -10,7 +10,7 @@ Maarten thinks and writes about current developments in philosophy of mind and p
 
 His doctoral work, [_Appearance and Representation_](http://msteenhagen.github.io/Appearance-and-representation/), defends a new approach to images. 
 
-He was recently [awarded a grant](http://www.newdirectionsproject.com/2015/09/14/distance/) to organise a big conference on the distal senses.
+The [New Directions in the Study of the Mind](http://www.newdirectionsproject.com/) project at Cambridge University recently [awarded him a grant](http://www.newdirectionsproject.com/2015/09/14/distance/) to organise a big conference on the distal senses.
 
 Maarten gives frequent [talks](http://msteenhagen.github.io/talks/). He can be reached via [email](mailto:maarten.steenhagen@uantwerp.be) or shouted at on [Twitter](http://www.twitter.com/msteenhagen).
 
