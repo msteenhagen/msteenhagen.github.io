@@ -12,7 +12,7 @@ His previous research project, [_Appearance and Representation_](http://msteenha
 
 In June 2016 he organised the conference ['Perceiving at a Distance'](http://www.newdirectionsproject.com/2015/09/14/distance/), funded by the [New Directions in the Study of the Mind](http://www.newdirectionsproject.com/) project at Cambridge University, to investigate the varieties of distal sense perception.
 
-Reached him by [email](mailto:maarten.steenhagen@uantwerp.be) or track him down on [Twitter](http://www.twitter.com/msteenhagen).
+Contact him by [email](mailto:maarten.steenhagen@uantwerp.be) or track him down on [Twitter](http://www.twitter.com/msteenhagen).
 
   
 
