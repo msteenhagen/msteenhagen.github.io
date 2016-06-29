@@ -4,7 +4,7 @@ layout: page
 
 Maarten Steenhagen is a philosopher, writer and coffee lover studying perception and the mind. 
 
-Currently he is a Postdoctoral Research Fellow in the [Centre of Philosophical Psychology](http://uahost.uantwerpen.be/bence.nanay/paw.html) at the [University of Antwerp](https://www.uantwerpen.be/en/). He holds Ph.D. from [UCL](https://www.ucl.ac.uk/philosophy), and recently was a visiting researcher at the [University of Toronto](http://www.philosophy.utoronto.ca).
+Currently he is a Postdoctoral Research Fellow in the [Centre of Philosophical Psychology](http://uahost.uantwerpen.be/bence.nanay/paw.html) at the [University of Antwerp](https://www.uantwerpen.be/en/). He holds a Ph.D. from [UCL](https://www.ucl.ac.uk/philosophy), and recently was a visiting researcher at the [University of Toronto](http://www.philosophy.utoronto.ca).
 
 In his current research, _Beyond the Senses_, he investigates perception by determining the role of perceptual media and mediators, such as sounds, images, and optical technology.
 
