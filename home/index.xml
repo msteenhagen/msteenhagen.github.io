@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on perception ⋅ media ⋅ technology</title>
+    <link>http://msteenhagen.github.io/home/</link>
+    <description>Recent content in Homes on perception ⋅ media ⋅ technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 M. Steenhagen</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://msteenhagen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://msteenhagen.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;what-are-the-limits-of-perception&#34;&gt;What are the limits of perception?&lt;/h1&gt;
+
+&lt;p&gt;I am a Lecturer in philosophy at the University of Cambridge, and a Visiting Research Fellow at the Institute of Advanced Studies of University College London.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on perception and the mind. In particular, I concentrate on the role of perceptual media&amp;mdash;such as sounds, images, and optical technology. So far my articles have covered the experience of sounds, images, and mirror perception. I also like to dabble into controversies about philosophical method.&lt;/p&gt;
+
+&lt;p&gt;I teach Philosophical Logic, Theory of Meaning, Metaphysics of Persons, and a number of lecture series in the Philosophy of Mind and Cognitive Science.&lt;/p&gt;
+
+&lt;p&gt;Besides writing about and teaching philosophy I am a coffee nerd and web developer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
