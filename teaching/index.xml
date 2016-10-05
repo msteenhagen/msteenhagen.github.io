@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on msteenhagen</title>
+    <link>http://msteenhagen.github.io/teaching/</link>
+    <description>Recent content in Teachings on msteenhagen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 M. Steenhagen</copyright>
+    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://msteenhagen.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Philosophical Logic</title>
+      <link>http://msteenhagen.github.io/teaching/2016plo/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2016plo/</guid>
+      <description>
+
+&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
+
+&lt;p&gt;This course will introduce several key concepts in the philosophy of language and logic. It will cover the syllabus materials on Philosophical Logic (Section B of the paper in Logic). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
+
+&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
+
+&lt;p&gt;An interesting and very readable introductory textbook is: Sybil Wolfram (1989), &lt;em&gt;Philosophical Logic: An Introduction&lt;/em&gt;, Oxford: Routledge.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
+
+&lt;p&gt;Wednesday 3-4. Lecture Block Room 5&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-1-necessity&#34;&gt;Lecture 1: Necessity&lt;/h2&gt;
+
+&lt;p&gt;This lecture discusses the notion of a necessary truth, and related notions of &lt;em&gt;analytic&lt;/em&gt; statements and &lt;em&gt;a priori&lt;/em&gt; knowledge.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;A. J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, ch. 4.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-2-rigid-designation&#34;&gt;Lecture 2: Rigid Designation&lt;/h2&gt;
+
+&lt;p&gt;This lecture considers the possibility of necessary but a posteriori truths.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Saul Kripke (1980), &lt;em&gt;Naming and Necessity&lt;/em&gt;, Cambridge, MA: Harvard University Press. (selections)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-3-where-does-meaning-come-from&#34;&gt;Lecture 3: Where does meaning come from?&lt;/h2&gt;
+
+&lt;p&gt;This lecture discusses the relation between the &lt;em&gt;meaning&lt;/em&gt; of a communicative utterance and the thoughts of its utterer.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;H. P. Grice (1957), &amp;lsquo;Meaning,&amp;rsquo; &lt;em&gt;The Philosophical Review&lt;/em&gt; (66:3), pp. 377-388.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-4-natural-language&#34;&gt;Lecture 4: Natural Language&lt;/h2&gt;
+
+&lt;p&gt;This lecture considers whether linguistic, communicative meaning can emerge independent of thought.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Ruth G. Millikan (2005), &amp;lsquo;The Language-Thought Partnership&amp;rsquo; in &lt;em&gt;Language: A Biological Model&lt;/em&gt;, Oxford: Oxford University Press. Online at: &lt;a href=&#34;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&#34;&gt;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-5-natural-language-vs-formal-language&#34;&gt;Lecture 5: Natural Language vs Formal Language&lt;/h2&gt;
+
+&lt;p&gt;This lecture discusses the similarities and differences between natural and formal languages.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-4&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-6-conditionals&#34;&gt;Lecture 6: Conditionals&lt;/h2&gt;
+
+&lt;p&gt;This lecture discusses attempts to offer a formal definition of ordinary &amp;lsquo;if&amp;hellip;, then&amp;hellip;&amp;rsquo; locutions.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-5&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Dorothy Edgington (2008), &amp;lsquo;Conditionals&amp;rsquo;, in E.N. Zalta, ed., &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt; (Winter Edition) [Online]. Available at: &lt;a href=&#34;http://plato.stanford.edu/entries/conditionals/&#34;&gt;http://plato.stanford.edu/entries/conditionals/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-7-deeper-into-the&#34;&gt;Lecture 7: Deeper into &amp;lsquo;the&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;This lecture introduces the philosophical discussion about &lt;em&gt;definite descriptions&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-6&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Bertrand Russell (1905), &amp;lsquo;On Denoting&amp;rsquo; &lt;em&gt;Mind&lt;/em&gt; (14), 479-93.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-8-referring-descriptions&#34;&gt;Lecture 8: Referring Descriptions&lt;/h2&gt;
+
+&lt;p&gt;This lecture considers referring uses of descriptive statements.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-7&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Keith Donnellan (1966), &amp;lsquo;Reference and Definite Descriptions,&amp;rsquo; &lt;em&gt;Philosophical Review&lt;/em&gt; (75), 281-304. &lt;a href=&#34;http://www.jstor.org/stable/2183143&#34;&gt;http://www.jstor.org/stable/2183143&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Persons</title>
+      <link>http://msteenhagen.github.io/teaching/2016per/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2016per/</guid>
+      <description>
+
+&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
+
+&lt;p&gt;These four lectures will consider the nature and persistence of persons over time. A particular focus will be on the recent debate about Animalism. It will cover the Part 2 syllabus materials on Persons for the paper on Metaphysics. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
+
+&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
+
+&lt;p&gt;Those looking for an introduction may consult the Stanford Encyclopedia, which has a useful &lt;a href=&#34;http://plato.stanford.edu/entries/animalism/&#34;&gt;entry on Animalism&lt;/a&gt;. An excellent collection of essays about Animalism is: Stephen Blatti and Paul F. Snowdon, eds. (2016), &lt;em&gt;Animalism: New Essays on Persons, Animals, &amp;amp; Identity&lt;/em&gt;, Oxford: Oxford University Press.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
+
+&lt;p&gt;Tuesday 1-2. Lecture Block Room 9&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-1-the-life-of-a-person&#34;&gt;Lecture 1: The life of a person&lt;/h2&gt;
+
+&lt;p&gt;This lecture will discuss why, apart from &lt;em&gt;being alive&lt;/em&gt;, the condition of &lt;em&gt;having a psychology&lt;/em&gt; is thought to be necessary to being a person.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Richard Wollheim (1984), &amp;lsquo;Living,&amp;rsquo; in &lt;em&gt;The Thread of Life&lt;/em&gt;. Cambridge: Cambridge University Press, 1-32.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-2-animalism-without-animals&#34;&gt;Lecture 2: Animalism without animals&lt;/h2&gt;
+
+&lt;p&gt;This lecture will consider the prospects of a theory of the persistence of persons in terms of an identity relation between the person and an animal. Special attention will be paid to the different versions of Animalism.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;!-- P.F. Snowdon (1990), &#39;Persons, Animals, and Ourselves,&#39; in _The Person and the Human Mind: Issues in Ancient and Modern Philosophy_, C. Gill (ed.), Oxford: Clarendon Press, pp. 83–107.
+ --&gt;
+
+&lt;p&gt;Eric Olson (2003), &amp;lsquo;An Argument for Animalism,&amp;rsquo; in &lt;em&gt;Personal Identity&lt;/em&gt;. R. Martin and J. Barresi (eds.), Oxford: Blackwell, pp. 318–34.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-3-remnant-persons&#34;&gt;Lecture 3: Remnant persons&lt;/h2&gt;
+
+&lt;p&gt;This lecture will consider some of the most pressing questions facing the Animalist theory, especially the way in which the thinking animal motivation for Animalism can lead to a worry about too many persons.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Mark Johnston (2007), &amp;lsquo;&amp;ldquo;Human Beings&amp;rdquo; Revisited: My Body is Not an Animal,&amp;rsquo; in &lt;em&gt;Oxford Studies in Metaphysics&lt;/em&gt;, vol. 3, D.W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 33–74.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-4-dead-animals&#34;&gt;Lecture 4: Dead Animals&lt;/h2&gt;
+
+&lt;p&gt;What is the significance of death for the life and existence of a person?&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Paul Snowdon (2014), &amp;lsquo;Animalism and the Lives of Human Animals,&amp;rsquo; &lt;em&gt;South J Philos&lt;/em&gt; (52), 171–184. doi:10.1111/sjp.12074&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theories of Meaning</title>
+      <link>http://msteenhagen.github.io/teaching/2016tom/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2016tom/</guid>
+      <description>
+
+&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
+
+&lt;p&gt;This course will discuss four key moments twentieth century philosophy of language and logic. It will cover the Part 1b syllabus materials on Theories of Meaning for the paper in Logic. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
+
+&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
+
+&lt;p&gt;An good and comprehensive introductory textbook is: Alexander Miller (2007), &lt;em&gt;Philosophy of Language&lt;/em&gt; (2nd ed.), London: Routledge.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
+
+&lt;p&gt;Tuesday 2-3. Lecture Block Room 1&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-1-the-verification-principle&#34;&gt;Lecture 1: The Verification Principle&lt;/h2&gt;
+
+&lt;p&gt;This lecture will consider the relation between the meaning of a sentence and its conditions of verification by discussing early twentieth-century empiricism about meaning.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;A.J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, Introduction &amp;amp; ch. 1.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-2-two-dogmas-of-empiricism&#34;&gt;Lecture 2: Two Dogmas of Empiricism&lt;/h2&gt;
+
+&lt;p&gt;This lecture will discuss criticisms of meaning empiricism. In particular, we will look at the arguments put forward by Quine.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;W.V.O. Quine (1951), &amp;lsquo;Two Dogmas of Empiricism,&amp;rsquo; &lt;em&gt;Philosophical Review&lt;/em&gt; (60), 20-43. &lt;a href=&#34;http://www.jstor.org/stable/2181906&#34;&gt;http://www.jstor.org/stable/2181906&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-3-compositional-semantics&#34;&gt;Lecture 3: Compositional Semantics&lt;/h2&gt;
+
+&lt;p&gt;This lecture will consider the relation between the meaning of a sentence and the meaning of its parts by unpacking Davidson&amp;rsquo;s arguments about the learnability of language.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Donald Davidson (1984) &lt;em&gt;Inquiries into Truth and Interpretation&lt;/em&gt;, Oxford: Oxford University Press, ch. 1 (&amp;lsquo;Theories of meaning and learnable languages&amp;rsquo;). Available online at: &lt;a href=&#34;http://doi.org/10.1093/0199246297.003.0001&#34;&gt;http://doi.org/10.1093/0199246297.003.0001&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-4-pragmatics&#34;&gt;Lecture 4: Pragmatics&lt;/h2&gt;
+
+&lt;p&gt;This lecture will look at &amp;lsquo;non-compositional&amp;rsquo; theories of meaning by considering the relation between the meaning of a sentence and the context of its utterance.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Charles Travis (1997), &amp;lsquo;Pragmatics,&amp;rsquo; in &lt;em&gt;A Companion to the Philosophy of Language&lt;/em&gt;, B. Hale and C. Wright (eds.), Oxford: Blackwell, 87-107.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

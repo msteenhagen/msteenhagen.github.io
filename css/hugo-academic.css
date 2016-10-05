@@ -145,6 +145,12 @@ pre {
     background-color: rgb(255, 255, 255);
     padding: 110px 0 110px 0;
 }
+
+.contact-section {
+    background-color: #cfcfcf;
+    padding: 110px 0 110px 0;
+}
+
 @media screen and (max-width: 768px) {
     .home-section {
         padding: 60px 0 60px 0;
@@ -482,6 +488,7 @@ footer {
     margin: 4rem 0 0;
     padding: 2rem 0;
     width: 100%;
+
 }
 
 footer p {
@@ -491,7 +498,13 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-    color: #899596;
+    color: #0f0f0f;
+}
+
+.footer-section {
+    background-color: #0f0f0f;
+    padding: 110px 0 110px 0;
+    color: white;
 }
 
 /*************************************************
