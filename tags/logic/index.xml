@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logic on msteenhagen</title>
-    <link>http://msteenhagen.github.io/tags/logic/</link>
+    <link>http://msteenhagen.github.io/tags/logic/index.xml</link>
     <description>Recent content in Logic on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 M. Steenhagen</copyright>
-    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://msteenhagen.github.io/tags/logic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <loc>http://msteenhagen.github.io/teaching/2017ire/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/teaching/2017mam/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +94,101 @@
   <url>
     <loc>http://msteenhagen.github.io/talk/thoughtsyou/</loc>
     <lastmod>2014-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/conference/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/lent-2017/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/logic/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/metaphysics/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/michaelmas-2016/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/mind/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-1a/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-2/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/publication/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/talk/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/teaching/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
