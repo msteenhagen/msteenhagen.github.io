@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://msteenhagen.github.io/teaching/2017ire/</loc>
+    <loc>http://msteenhagen.github.io/teaching/2016cau/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://msteenhagen.github.io/teaching/2017mam/</loc>
+    <loc>http://msteenhagen.github.io/teaching/2016ire/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/teaching/2016mde/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/teaching/2016mam/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
