@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2017pcp/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/talk/fribourgh/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url>
@@ -172,8 +177,20 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/metaphysics-and-epistemology/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/tags/michaelmas-2016/</loc>
     <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/michaelmas-2017/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +208,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -232,13 +249,13 @@
   
   <url>
     <loc>http://msteenhagen.github.io/teaching/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
