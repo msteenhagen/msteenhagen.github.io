@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2017plo/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2017pcp/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -166,7 +171,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/logic/</loc>
-    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,7 +195,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/michaelmas-2017/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,7 +207,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/part-1a/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,13 +254,13 @@
   
   <url>
     <loc>http://msteenhagen.github.io/teaching/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
