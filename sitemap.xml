@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2017lei/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2017pcp/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -158,6 +163,12 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/early-modern-philosophy/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -213,7 +224,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
