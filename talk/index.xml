@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 M. Steenhagen</copyright>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://msteenhagen.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Philosophy in the Mirror</title>
+      <link>http://msteenhagen.github.io/talk/qms/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/talk/qms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Argument from Hallucination</title>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/talk/aristotelian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thoughts you don&#39;t think</title>
-      <link>http://msteenhagen.github.io/talk/thoughtsyou/</link>
-      <pubDate>Sun, 20 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://msteenhagen.github.io/talk/thoughtsyou/</guid>
       <description></description>
     </item>
     
