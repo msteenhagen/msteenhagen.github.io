@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2018per/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2018con/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -245,7 +250,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/metaphysics-and-epistemology/</loc>
-    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,7 +268,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/michaelmas-2018/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -281,7 +286,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -346,13 +351,13 @@
   
   <url>
     <loc>http://msteenhagen.github.io/teaching/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,8 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 M. Steenhagen</copyright>
-    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://msteenhagen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Perception</title>
+      <link>http://msteenhagen.github.io/teaching/2018per/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2018per/</guid>
+      <description>
+
+&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
+
+&lt;p&gt;In these lectures I will discuss different philosophical views of the nature of perceptual experience, and analyze central objections.&lt;/p&gt;
+
+&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
+
+&lt;p&gt;Friday 3-4pm, Lecture Room 2 (Sidgwick Site Lecture Block)&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-1-naive-realism&#34;&gt;Lecture 1: Naive realism&lt;/h2&gt;
+
+&lt;p&gt;Naive realism is the view that perceptual experience fundamentally is a presentation (to us) of familiar, mind-independent objects in our environment. It is motivated by the phenomenology of perception. Perception&amp;mdash;the Naive Realist maintains&amp;mdash;&lt;em&gt;seems&lt;/em&gt; to be a presentation of those objects, and without a reason to think otherwise we can just take that appearance at face value. In this lecture I discuss Naive Realism, and look at two ways of challenging it. This will allow you to compare a Naive Realist understanding of the phenomenology of perception with the more careful description offered by G.E. Moore in his work on sense data.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-further-reading&#34;&gt;Suggested further reading&lt;/h5&gt;
+
+&lt;p&gt;G.E. Moore (1925), &amp;lsquo;A Defence of Common Sense&amp;rsquo; in &lt;em&gt;Contemporary British Philosophy&lt;/em&gt; (second series), ed. J.H. Muirhead (George Allen &amp;amp; Unwin, London: 1925), pp. 192-233. &lt;a href=&#34;http://selfpace.uconn.edu/class/ana/MooreDefense.pdf&#34;&gt;(There&amp;rsquo;s a PDF version here)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;download-slides-here-https-goo-gl-b2awde&#34;&gt;Download slides &lt;a href=&#34;https://goo.gl/B2Awde&#34;&gt;here&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h2 id=&#34;lecture-2-the-argument-from-hallucination&#34;&gt;Lecture 2: The Argument from Hallucination&lt;/h2&gt;
+
+&lt;p&gt;In this lecture I will construct the best version of the argument from hallucination. This argument aims to show that the kind of experience we have when we look at a tomato does not for its existence depend on anything outside the mind. Some have taken its success to imply that the objects of perception are in fact mind-dependent. It is, however, not obvious that accepting this is the only way to respond to the argument.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-3-representationalism&#34;&gt;Lecture 3: Representationalism&lt;/h2&gt;
+
+&lt;p&gt;In this lecture I will consider an alternative diagnosis of the argument from hallucination. What both sense datum theorists and naive realists accept is the idea that perceptual experience is fundamentally presentational. However, we need not assume this. What if perceptual experience is fundamentally representational? In that case, we need not postulate mind-dependent sense data, and instead say that we can be aware of familiar, mind-independent objects regardless of whether they exist or not. But what is a perceptual representation? And can we motivate this conception of experience independent of the argument from hallucination? I will end by discussing epistemological motivations for the view.&lt;/p&gt;
+
+&lt;h3 id=&#34;suggested-further-reading-1&#34;&gt;Suggested further reading&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Michael Tye (2002), ‘Visual Qualia and Visual Content Revisited’ (Defence of representationalism)&lt;/li&gt;
+&lt;li&gt;Charles Travis (2004), &amp;lsquo;The Silence of the Senses&amp;rsquo; (Criticism of representationalism)&lt;/li&gt;
+&lt;li&gt;G.E.M. Anscombe (1965), &amp;lsquo;The Intentionality of Sensation: A Grammatical Feature&amp;rsquo; (Defence of intentionalism; reprinted in &lt;em&gt;Vision and Mind&lt;/em&gt; collection edited by Noë and Thompson)&lt;/li&gt;
+&lt;li&gt;M.G.F. Martin (2006), &amp;lsquo;On Being Alienated&amp;rsquo; (Discussion of Common Kind Assumption, Experiential Naturalism, and Naive Realism)&lt;/li&gt;
+&lt;li&gt;Wilfrid Sellars (1956), &lt;em&gt;Empiricism and the Philosophy of Mind&lt;/em&gt; (&lt;a href=&#34;http://www.ditext.com/sellars/epm.html&#34;&gt;http://www.ditext.com/sellars/epm.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;John McDowell (1994), &lt;em&gt;Mind and World&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Susanna Siegel (2010), &lt;em&gt;The Contents of Visual Experience&lt;/em&gt; (Defence of representationalism)&lt;/li&gt;
+&lt;li&gt;Graeme Forbes (2006), &lt;em&gt;Attitude Problems An Essay On Linguistic Intensionality&lt;/em&gt; (See ch.3 for an advanced discussion of perceptual verbs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;lecture-4-disjunctivism&#34;&gt;Lecture 4: Disjunctivism&lt;/h2&gt;
+
+&lt;p&gt;In this final lecture I will consider a way for the naive realist to resist each of the arguments we began with. The argument from hallucination can be defused if we accept disjunctivism about experience. The disjunctivist claims that the kind of experience we have when we look at a tomato is fundamentally different from a subjectively indistinguishable hallucination. I will look at two standard objections to disjunctivism about perception: that it conflicts with vision science, and that it cannot make sense of &amp;lsquo;what it is like&amp;rsquo; to hallucinate. I will argue that both objections are ultimately misguided.&lt;/p&gt;
+
+&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a (progressively expanding) list of books and articles that I recommend if you are interested in following up on the topics I discuss in the lectures:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;J.L. Austin, &lt;em&gt;Sense and Sensibilia&lt;/em&gt; (Argument from Illusion, Sense Data)&lt;/li&gt;
+&lt;li&gt;Matthew Soteriou, &lt;em&gt;Disjunctivism&lt;/em&gt; (Naive Realism, Argument from hallucination, Disjunctivism)&lt;/li&gt;
+&lt;li&gt;G.E.M. Anscombe, &amp;lsquo;The Intentionality of Sensation: A Grammatical Feature&amp;rsquo; (Representationalism, Sense Data, Naive Realism)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Consciousness</title>
@@ -837,89 +900,6 @@
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/post/prospective/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.newphilosopher.com/wp-content/uploads/2013/08/Philosophers-Composite-607x400.jpg&#34; alt=&#34;Some philosophers&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-philosophy&#34;&gt;What is philosophy?&lt;/h2&gt;
-
-&lt;p&gt;Philosophy is the study of problems that are fundamental and highly general. Wilfred Sellars wrote in 1960:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There&amp;rsquo;s something to Sellars&amp;rsquo; definition of philosophy&amp;mdash;though it is also a funny thing to say, precisely because it says so little!&lt;/p&gt;
-
-&lt;p&gt;Philosophers study problems that concern, for example, what reality is, how our beliefs are justified, how mind and body can interact, what the necessary conditions for a just society are, and what value is.&lt;/p&gt;
-
-&lt;h3 id=&#34;philosophy-in-cambridge&#34;&gt;Philosophy in Cambridge&lt;/h3&gt;
-
-&lt;p&gt;The main style of philosophy candidates will encounter at Cambridge is known as ‘analytic’. Analytic philosophy currently is the dominant philosophical tradition in the English-speaking world (it is typically contrasted with ‘continental’ philosophy, but the distinction is neither clear nor very helpful).&lt;/p&gt;
-
-&lt;p&gt;Analytic philosophy is marked by a method that focuses on &lt;strong&gt;clarity&lt;/strong&gt; and prefers &lt;strong&gt;simplicity&lt;/strong&gt; over all-encompassing philosophical systems. Moreover, a confidence in &lt;strong&gt;logical reasoning&lt;/strong&gt; and the &lt;strong&gt;natural sciences&lt;/strong&gt; is typical for the analytic tradition. You will find an emphasis on both these aspects in the Cambridge Philosophy Tripos, though there certainly is room for reading works in other traditions.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;to-read&#34;&gt;To read&lt;/h2&gt;
-
-&lt;p&gt;The following list is a selection of works that reflects the topics candidates will cover during their studies for the Philosophy Tripos at Cambridge. There is no need to read all of this. The aim of this list is to give you a sense of the variety of topics a student at Cambridge will come across.&lt;/p&gt;
-
-&lt;h4 id=&#34;metaphysics-and-mind&#34;&gt;Metaphysics and Mind&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Thomas Nagel ‘What is it like to be a bat?’ &lt;em&gt;The Philosophical Review&lt;/em&gt; (1974)&lt;/li&gt;
-&lt;li&gt;Jennifer Hornsby, ‘Agency and actions’ &lt;em&gt;Royal Institute of Philosophy Supplement&lt;/em&gt; (2004).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;ethics-and-political-philosophy&#34;&gt;Ethics and Political Philosophy&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Judith Thomson ‘The Trolley Problem’ &lt;em&gt;The Yale Law Journal&lt;/em&gt; (1985).&lt;/li&gt;
-&lt;li&gt;Susan Wolf, ‘Moral Saints’, &lt;em&gt;Journal of Philosophy&lt;/em&gt; (1982).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;logic&#34;&gt;Logic&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dorothy Edginton, ‘The philosophical problem of vagueness’ (2001).&lt;/li&gt;
-&lt;li&gt;Bertrand Russell, ‘On Denoting’ (1905).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;historical-texts&#34;&gt;Historical Texts&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Plato, &lt;em&gt;Apology&lt;/em&gt; (Available &lt;a href=&#34;http://classics.mit.edu/Plato/apology.html&#34;&gt;online&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;Three Dialogues between Hylas and Philonous&lt;/em&gt; (1713) (Available &lt;a href=&#34;http://www.gutenberg.org/ebooks/4724&#34;&gt;online&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;David Hume, ‘Of the Standard of Taste’ (1757)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;to-listen&#34;&gt;To listen&lt;/h2&gt;
-
-&lt;p&gt;Perhaps you are curious to find out about current philosophical debates. I can recommend listening to some of the bite-sized interviews with contemporary philosophers made available on &lt;em&gt;Philosophy Bites&lt;/em&gt;: &lt;a href=&#34;http://www.philosophybites.com/&#34;&gt;philosophybites.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For a historical perspective on philosophy, you can listen to the &lt;em&gt;History of Philosophy (without any gaps!)&lt;/em&gt; podcast produced by Professor Peter Adamson (LMU, Munich): &lt;a href=&#34;http://historyofphilosophy.net&#34;&gt;historyofphilosophy.net&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;to-watch&#34;&gt;To watch&lt;/h2&gt;
-
-&lt;p&gt;The Royal Institute of Philosophy has a good archive of lectures delivered to their society. You can find them on the &lt;a href=&#34;https://www.youtube.com/user/RoyIntPhilosophy&#34;&gt;Royal Institute of Philosophy YouTube Channel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a recent lecture by Professor Rae Langton, currently the Knightsbridge Professor of Philosophy in the Faculty at Cambridge:&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Ov17tbcqbHs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reading philosophical literature for advanced students</title>
-      <link>http://msteenhagen.github.io/post/reading/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://msteenhagen.github.io/post/reading/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.newphilosopher.com/wp-content/uploads/2013/08/Philosophers-Composite-607x400.jpg&#34; alt=&#34;Some philosophers&#34; /&gt;&lt;/p&gt;
