@@ -10,6 +10,74 @@
     <atom:link href="http://msteenhagen.github.io/tags/part-ia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Conditionals</title>
+      <link>http://msteenhagen.github.io/teaching/2018cda/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2018cda/</guid>
+      <description>
+
+&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
+
+&lt;p&gt;These lectures will introduce the philosophical discussion about conditionals. For this, we need to ask what the relation is between the meaning of formal languages and the meaning of natural languages.&lt;/p&gt;
+
+&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
+
+&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2018cda/&#34;&gt;http://msteenhagen.github.io/teaching/2018cda/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
+
+&lt;p&gt;Monday 3-4pm. Lecture Block Room 1.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-1-meaning-and-natural-language&#34;&gt;Lecture 1: Meaning and natural language&lt;/h2&gt;
+
+&lt;p&gt;This lecture will discuss Grice&amp;rsquo;s theory of sentence meaning and communicative intentions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://goo.gl/229Nur&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;suggested-reading&#34;&gt;Suggested reading&lt;/h3&gt;
+
+&lt;p&gt;H.P. Grice (1957), ‘Meaning’, The Philosophical Review, Vol. 66, No. 3. (Jul., 1957), pp. 377-388.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-2-logic-and-conversation&#34;&gt;Lecture 2: Logic and conversation&lt;/h2&gt;
+
+&lt;p&gt;This lecture will expand on Grice&amp;rsquo;s theory of sentence meaning, by considering the role and behaviour of conventional and conversational implicature.&lt;/p&gt;
+
+&lt;h3 id=&#34;suggested-reading-1&#34;&gt;Suggested reading&lt;/h3&gt;
+
+&lt;p&gt;H. P. Grice (1957), ‘Logic and Conversation’ in Peter Cole and Jerry L. Morgan (eds.) Syntax and Semantics, Vol. 3, Speech Acts, New York: Academic Press 1975 (Also in Grice’s Studies in the Ways of Words)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-3-conditionals-truth-functional-approaches&#34;&gt;Lecture 3: Conditionals: truth-functional approaches&lt;/h2&gt;
+
+&lt;p&gt;This lecture will introduce the paradoxes of conditionals, which occur when we try to transition between natural and formal languages. We will try to resolve these paradoxes by using Grice&amp;rsquo;s theory of implicature.&lt;/p&gt;
+
+&lt;h3 id=&#34;suggested-reading-2&#34;&gt;Suggested reading&lt;/h3&gt;
+
+&lt;p&gt;Mark Sainsbury (2001), ‘The Project of Formalization,’ (ch. 6) in Logical Forms: An Introduction to Philosophical Logic, Oxford: Blackwell, 339-391.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lecture-4-conditionals-non-truthfunctional-approaches&#34;&gt;Lecture 4: Conditionals: non-truthfunctional approaches&lt;/h2&gt;
+
+&lt;p&gt;In this lecture we will look at problems with the Gricean solution to the paradoxes of conditionals, and consider alternative approaches&lt;/p&gt;
+
+&lt;h3 id=&#34;suggested-reading-3&#34;&gt;Suggested reading&lt;/h3&gt;
+
+&lt;p&gt;Dorothy Edgington (2008), ‘Conditionals’, in E.N. Zalta, ed., Stanford Encyclopedia of Philosophy (Winter Edition) [Online].&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Induction and Causation</title>
       <link>http://msteenhagen.github.io/teaching/2018inc/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
