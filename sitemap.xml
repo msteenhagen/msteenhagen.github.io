@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2019qua/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2019dua/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -268,7 +273,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/lent-2019/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -298,7 +303,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/metaphysics-and-epistemology/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -334,7 +339,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -411,13 +416,13 @@
   
   <url>
     <loc>http://msteenhagen.github.io/teaching/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
