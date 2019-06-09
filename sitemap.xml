@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://msteenhagen.github.io/publication/naive-realism-relationalism/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2019qua/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +19,6 @@
   <url>
     <loc>http://msteenhagen.github.io/teaching/2019ver/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/publication/naive-realism-relationalism/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -398,7 +398,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/publication/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -427,7 +427,7 @@
   
   <url>
     <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
