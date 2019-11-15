@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on msteenhagen</title>
-    <link>http://msteenhagen.github.io/tags/conference/index.xml</link>
+    <link>http://msteenhagen.github.io/tags/conference/</link>
     <description>Recent content in Conference on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
-    <atom:link href="http://msteenhagen.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://msteenhagen.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mere Appearances</title>

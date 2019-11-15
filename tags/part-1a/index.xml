@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Part 1a on msteenhagen</title>
-    <link>http://msteenhagen.github.io/tags/part-1a/index.xml</link>
+    <link>http://msteenhagen.github.io/tags/part-1a/</link>
     <description>Recent content in Part 1a on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
-    <atom:link href="http://msteenhagen.github.io/tags/part-1a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://msteenhagen.github.io/tags/part-1a/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Necessity, Analyticity, A Priority</title>
@@ -15,78 +18,8 @@
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018naa/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;This course will introduce several key distinctions: analytic / synthetic; a priori / a posteriori; and necessary / contingent. It will cover the syllabus materials on Analyticity, A Priority, and Necessity (the first section of Paper 3, Meaning). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;An interesting and readable introductory textbook is: Sybil Wolfram (1989), &lt;em&gt;Philosophical Logic: An Introduction&lt;/em&gt;, Oxford: Routledge.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2017plo/&#34;&gt;http://msteenhagen.github.io/teaching/2017plo/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Monday 3-4pm. Lecture Block Room 1&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-necessity&#34;&gt;Lecture 1: Necessity&lt;/h2&gt;
-
-&lt;p&gt;What is necessity? Can we distinguish different forms of necessity? This lecture discusses the notion of a necessary truth, and presents a model for such truths using possible worlds. (&lt;a href=&#34;https://goo.gl/zUomMb&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;W.V.O. Quine (1956), ‘Quantifiers and propositional attitudes’ &lt;em&gt;The Journal of Philosophy&lt;/em&gt; 53, 177-187.&lt;/li&gt;
-&lt;li&gt;W.V.O. Quine (1943), ‘Notes on existence and necessity’  &lt;em&gt;The Journal of Philosophy&lt;/em&gt; 40, 113-127&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-analyticity-and-a-priority&#34;&gt;Lecture 2: Analyticity and A priority&lt;/h2&gt;
-
-&lt;p&gt;What explains the necessity of truths? This lecture continues the discussion of necessary truth, and considers whether a statement&amp;rsquo;s analyticity is an adequate explanation of necessity. This leads to a classic empiricist view that necessity, analyticity and a priority stand or fall together. (&lt;a href=&#34;https://goo.gl/Erszdt&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A. J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, ch. 4.&lt;/li&gt;
-&lt;li&gt;David Papineau (2012), &lt;em&gt;Philosophical Devices&lt;/em&gt; Oxford: Oxford University Press. (Part II, Chs 4-5)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-necessary-but-synthetic-truths&#34;&gt;Lecture 3: Necessary but synthetic truths&lt;/h2&gt;
-
-&lt;p&gt;Can empirical truths be necessary? This lecture introduces Kripke&amp;rsquo;s notion of a &amp;lsquo;rigid designator&amp;rsquo;, and considers the possibility of necessary but a posteriori truths.&lt;/p&gt;
-
-&lt;p&gt;For the &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt;, Joseph LaPorte wrote a good and detailed discussion of rigid designators. As is usual with the &lt;em&gt;SEP&lt;/em&gt;, the entry contains clear introductions of the main ideas, followed by increasingly advanced material. I don&amp;rsquo;t expect you to be able to follow all of it (yet), but I can recommend reading at least the introduction (§1) and section (§3): &lt;a href=&#34;https://plato.stanford.edu/entries/rigid-designators/&#34;&gt;https://plato.stanford.edu/entries/rigid-designators/&lt;/a&gt; (&lt;a href=&#34;https://goo.gl/nEdRdw&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Saul A. Kripke (1971), &amp;lsquo;Identity and Necessity,&amp;rsquo; in M.K. Munitz (ed.), &lt;em&gt;Identity and Individuation&lt;/em&gt;. New York: New York University  Press. 135-164. &lt;a href=&#34;http://home.sandiego.edu/~baber/metaphysics/readings/Kripke.IdentityAndNecessity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-reference-and-description&#34;&gt;Lecture 4: Reference and description&lt;/h2&gt;
-
-&lt;p&gt;This lecture continues our discussion of rigid designators, and considers the possibility of a priori truths that are contingent. (&lt;a href=&#34;https://goo.gl/ygSYKg&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Saul A. Kripke (1971), &amp;lsquo;A Priori Knowledge, Necessity, and Contingency&amp;rsquo;, in P.K. Moser, ed., A Priori Knowledge (Oxford: Oxford University Press, 1987), ch. 7. (Excerpt of his Naming and Necessity)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description This course will introduce several key distinctions: analytic / synthetic; a priori / a posteriori; and necessary / contingent. It will cover the syllabus materials on Analyticity, A Priority, and Necessity (the first section of Paper 3, Meaning). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading An interesting and readable introductory textbook is: Sybil Wolfram (1989), Philosophical Logic: An Introduction, Oxford: Routledge.</description>
     </item>
     
     <item>
@@ -95,54 +28,10 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2017cau1a/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the metaphysics of causation (or causality, or cause and effect). After a brief introduction to the topic, and some historical background, we will consider the concept of causal necessity and then look at David Hume’s view of causation, followed by David Lewis’s counterfactual theory, and the main objections to it.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2017cau1a/&#34;&gt;http://msteenhagen.github.io/teaching/2017cau1a/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Thursday 11-12. Lecture Block Room 4&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-very-idea-of-a-cause&#34;&gt;Lecture 1: The very idea of a cause&lt;/h2&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/X5AyAQ&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-regularity-theories&#34;&gt;Lecture 2: Regularity theories&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Hume’s sceptical approach to causation, and show how it has led the way for regularity theories of causation. There are some problems with such theories. In particular, regularity theories seem to have little to say about the particular events that seem to be fundamental to causal interaction. J.L. Mackie offers an analysis that identifies these particular events as special conditions: INUS conditions. His suggestion is that something is a cause if it is at least an INUS condition for an effect. I close by discussing three problems with Mackie&amp;rsquo;s theory.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/oAq2K5&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-counterfactual-theories&#34;&gt;Lecture 3: Counterfactual theories&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Lewis&amp;rsquo; framework for thinking about counterfactual conditionals, and show how he applies this framework to a theory of causation. Causal dependence is a relation between distinct events that is defined in terms of counterfactual dependence relations between statements about these events&amp;rsquo; occurrence (or absence thereof).&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/xia78G&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-the-problem-of-redundant-causation&#34;&gt;Lecture 4: The problem of redundant causation&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I continue elaborating David Lewis&amp;rsquo; framework for thinking about causation in terms of causal and counterfactual dependence. I discuss the asymmetry and transitivity of causation, and look at cases of overdetermination and pre-emption.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/bQcev8&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the metaphysics of causation (or causality, or cause and effect). After a brief introduction to the topic, and some historical background, we will consider the concept of causal necessity and then look at David Hume’s view of causation, followed by David Lewis’s counterfactual theory, and the main objections to it.
+Online resources Outlines and handouts will be made available on:
+http://msteenhagen.github.io/teaching/2017cau1a/
+Where and when Thursday 11-12.</description>
     </item>
     
     <item>
@@ -151,242 +40,8 @@
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2017plo/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;This lecture course will introduce several key concepts in the philosophy of language and logic. It will cover the syllabus materials on Philosophical Logic (Section B of the paper in Logic). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;An interesting and readable introductory textbook is: Sybil Wolfram (1989), &lt;em&gt;Philosophical Logic: An Introduction&lt;/em&gt;, Oxford: Routledge.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2017plo/&#34;&gt;http://msteenhagen.github.io/teaching/2017plo/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Wednesday 2-3pm. Lecture Block Room 4&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-necessity-analyticity-and-the-a-priori&#34;&gt;Lecture 1: Necessity, Analyticity, and the A Priori&lt;/h2&gt;
-
-&lt;p&gt;What explains the necessity of some truths? This lecture discusses the notion of a necessary truth, and related notions of analytic statements and &lt;em&gt;a priori&lt;/em&gt; knowledge. (&lt;a href=&#34;https://goo.gl/wAkz5w&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A. J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, ch. 4.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-reference-description-and-rigid-designation&#34;&gt;Lecture 2: Reference, Description, and Rigid Designation&lt;/h2&gt;
-
-&lt;p&gt;Can empirical truths be necessary? This lecture introduces Kripke&amp;rsquo;s notion of a &amp;lsquo;rigid designator&amp;rsquo;, and considers the possibility of necessary but a posteriori truths. (&lt;a href=&#34;https://goo.gl/P3eLqL&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;For the &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt;, Joseph LaPorte wrote a good and detailed discussion of rigid designators. As is usual with the &lt;em&gt;SEP&lt;/em&gt;, the entry contains clear introductions of the main ideas, followed by increasingly advanced material. I don&amp;rsquo;t expect you to be able to follow all of it (yet), but I can recommend reading at least the introduction (§1) and section (§3): &lt;a href=&#34;https://plato.stanford.edu/entries/rigid-designators/&#34;&gt;https://plato.stanford.edu/entries/rigid-designators/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;quiz&#34;&gt;Quiz&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Which of these are coherent options?  Can you give examples?&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Analytic: Necessary: A posteriori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Analytic: Necessary: A priori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Analytic: Contingent: A posteriori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Analytic: Contingent: A priori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Synthetic: Necessary: A posteriori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Synthetic: Necessary: A priori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Synthetic: Contingent: A posteriori&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Synthetic: Contingent: A priori&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Saul A. Kripke (1971), &amp;lsquo;Identity and Necessity,&amp;rsquo; in M.K. Munitz (ed.), &lt;em&gt;Identity and Individuation&lt;/em&gt;. New York: New York University  Press. 135-164. &lt;a href=&#34;http://home.sandiego.edu/~baber/metaphysics/readings/Kripke.IdentityAndNecessity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-what-could-meaning-mean&#34;&gt;Lecture 3: What Could ‘Meaning’ Mean?&lt;/h2&gt;
-
-&lt;p&gt;Where does meaning come from? This lecture discusses the relation between the meaning of a communicative utterance and the thoughts of its utterer. (&lt;a href=&#34;https://goo.gl/wpvzos&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;H. P. Grice (1957), &amp;lsquo;Meaning,&amp;rsquo; &lt;em&gt;The Philosophical Review&lt;/em&gt; (66:3), pp. 377-388.&lt;/li&gt;
-&lt;li&gt;H. P. Grice (1957), &amp;lsquo;Logic and Conversation&amp;rsquo; in Peter Cole and Jerry L. Morgan (eds.) &lt;em&gt;Syntax and Semantics&lt;/em&gt;, Vol. 3, Speech Acts, New York: Academic Press 1975 (Also in Grice&amp;rsquo;s &lt;em&gt;Studies in the Ways of Words&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;John Searle (19..), &amp;lsquo;What is a speech act?&amp;rsquo; in Max Black (ed.), &lt;em&gt;Philosophy in America&lt;/em&gt;, London: Allen and Unwin, 1965, pp. 221—239.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-natural-language&#34;&gt;Lecture 4: Natural Language&lt;/h2&gt;
-
-&lt;p&gt;Can there be linguistic meaning without thought? This lecture considers whether linguistic, communicative meaning can emerge independent of thought. (&lt;a href=&#34;https://goo.gl/VogVaq&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ruth G. Millikan (2005), &amp;lsquo;The Language-Thought Partnership&amp;rsquo; in &lt;em&gt;Language: A Biological Model&lt;/em&gt;, Oxford: Oxford University Press. Online at: &lt;a href=&#34;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&#34;&gt;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-5-formal-translations&#34;&gt;Lecture 5: Formal Translations&lt;/h2&gt;
-
-&lt;p&gt;Can you formalise everyday conversations? This lecture discusses the similarities and differences between natural and formal languages. (&lt;a href=&#34;https://goo.gl/7HGPiW&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-4&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Mark Sainsbury (2001), &amp;lsquo;The Project of Formalization,&amp;rsquo; (ch. 6) in &lt;em&gt;Logical Forms: An Introduction to Philosophical Logic&lt;/em&gt;, Oxford: Blackwell, 339-391.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-6-conditionals&#34;&gt;Lecture 6: Conditionals&lt;/h2&gt;
-
-&lt;p&gt;What is the relation between truth-functional operators and their everyday counterparts? This lecture discusses attempts to offer a formal definition of ordinary &amp;lsquo;if&amp;hellip;, then&amp;hellip;&amp;rsquo; locutions.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/p5ocQd&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-5&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dorothy Edgington (2008), &amp;lsquo;Conditionals&amp;rsquo;, in E.N. Zalta, ed., &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt; (Winter Edition) [Online]. Available at: &lt;a href=&#34;http://plato.stanford.edu/entries/conditionals/&#34;&gt;http://plato.stanford.edu/entries/conditionals/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-7-deeper-into-the&#34;&gt;Lecture 7: Deeper into &amp;lsquo;the&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;How do descriptions work? This lecture introduces philosophical discussion about definite descriptions.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/L6SHZL&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-6&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bertrand Russell (1905), &amp;lsquo;On Denoting&amp;rsquo; &lt;em&gt;Mind&lt;/em&gt; (14), 479-93.&lt;/li&gt;
-&lt;li&gt;Bertrand Russell (1919), &amp;lsquo;Descriptions&amp;rsquo; in &lt;em&gt;Introduction to Mathematical Philosophy&lt;/em&gt;. London: George Allen &amp;amp; Unwin.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-8-quantification-and-existence&#34;&gt;Lecture 8: Quantification and Existence&lt;/h2&gt;
-
-&lt;p&gt;Can assertions using definite descriptions refer while being false? This lecture considers the significance of referential uses of definite desciptions, and of substitutional readings of the quantifiers.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/gqyjSp&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-7&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Keith Donnellan (1966), &amp;lsquo;Reference and Definite Descriptions,&amp;rsquo; &lt;em&gt;Philosophical Review&lt;/em&gt; (75), 281-304. &lt;a href=&#34;http://www.jstor.org/stable/2183143&#34;&gt;http://www.jstor.org/stable/2183143&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ruth Barcan Marcus (1962), &amp;lsquo;Interpreting Quantification&amp;rsquo;, &lt;em&gt;Inquiry&lt;/em&gt;, (5), 252-59. (Advanced) &lt;a href=&#34;http://dx.doi.org/10.1080/00201746208601353&#34;&gt;http://dx.doi.org/10.1080/00201746208601353&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;W.V.O. Quine (1949) &amp;lsquo;On What There Is&amp;rsquo;, &lt;em&gt;Review of Metaphysics&lt;/em&gt; 2, 21-38. (Optional)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mind Dependence</title>
-      <link>http://msteenhagen.github.io/teaching/2016mde/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://msteenhagen.github.io/teaching/2016mde/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;In this course we will consider how philosophers have defended the mind-dependence of some or all objects of experience. In its most extreme forms, such defences of mind-dependence result in Idealistic views about the nature of reality as we know it. But the more widely accepted distinction between primary and secondary qualities of experience equally reduces important features of the world to mere modifications of mind or experience. In this course we will consider different discussions about mind dependence, and consider whether arguments for the mind-dependence of some phenomenon are sound, and whether their conclusions are as problematic as some philosophers have claimed. We will begin by considering the discussion about primary and secondary qualities, and move on to contrast a Naïve Realism about the objects of experience with two forms of Idealism that have been proposed as surperior theories.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nolan, Lawrence (ed.). 2011. &lt;em&gt;Primary and Secondary Qualities: The Historical and Ongoing Debate&lt;/em&gt;, Oxford University Press, 2011.&lt;/li&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;Three Dialogues Between Hylas and Philonous&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Campbell, John and Quassim Cassam. &lt;em&gt;Berkeley&amp;rsquo;s Puzzle: What Does Experience Teach Us?&lt;/em&gt;. Oxford University Press, 2014.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2016mde/&#34;&gt;http://msteenhagen.github.io/teaching/2016mde/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 2-3. Lecture Block Room 1&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-drawing-the-primary-secondary-quality-distinction&#34;&gt;Lecture 1: Drawing the Primary/Secondary Quality distinction&lt;/h2&gt;
-
-&lt;p&gt;The qualities we experience objects to have are varied. But many philosophers think that we can distinguish two kinds of qualities: the primary ones and the secondary ones. In many ways the distinction between primary and secondary qualities still underpins much of our thinking about the mind, perception, and consciousness. In this lecture we will consider the motivations for the distinction, and different ways of drawing it. &lt;a href=&#34;https://goo.gl/QmwR3W&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nolan, Lawrence (ed.). 2011. &lt;em&gt;Primary and Secondary Qualities: The Historical and Ongoing Debate&lt;/em&gt;, Oxford University Press, 2011.&lt;/li&gt;
-&lt;li&gt;Burnyeat, Myles. &amp;lsquo;Conflicting Appearances&amp;rsquo;. &lt;em&gt;Proceedings of the British Academy&lt;/em&gt; 65 (1979): pp. 69-111.&lt;/li&gt;
-&lt;li&gt;Hyman, John. &lt;em&gt;The Objective Eye&lt;/em&gt;. University of Chicago Press, 2006. CHS 1-2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-undoing-the-primary-secondary-quality-distinction&#34;&gt;Lecture 2: Undoing the Primary/Secondary Quality distinction&lt;/h2&gt;
-
-&lt;p&gt;In this lecture we will consider in what ways one can resist the distinction between Primary and Secondary qualities. In &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;, Berkeley argues against the distinction, and concludes that both qualities are mind-dependent. Others agree that the distinction is suspect, but deny that either primary or secondary qualities are mind-dependent. &lt;a href=&#34;https://goo.gl/hBiyth&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Hyman, John. &lt;em&gt;The Objective Eye&lt;/em&gt;. University of Chicago Press, 2006. CHS 1-2&lt;/li&gt;
-&lt;li&gt;Martin, M.G.F. &amp;lsquo;What&amp;rsquo;s in a Look&amp;rsquo; in: Bence Nanay (ed.), &lt;em&gt;Perceiving the World&lt;/em&gt;. Oxford: Oxford University Press, 2010, pp. 160-225. (This is a long and difficult article.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-berkeley-s-puzzle&#34;&gt;Lecture 3: Berkeley&amp;rsquo;s Puzzle&lt;/h2&gt;
-
-&lt;p&gt;In this lecture we will discuss how Berkeley&amp;rsquo;s arguments seem to lead to a puzzle about our knowledge of a mind-independent world. If sensory experience only affords us knowledge of what it is like to experience the world, then how can we ever know what the world is like independent of the mind? &lt;a href=&#34;https://goo.gl/G99RPF&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Campbell, John and Quassim Cassam. &lt;em&gt;Berkeley&amp;rsquo;s Puzzle: What Does Experience Teach Us?&lt;/em&gt;. Oxford University Press, 2014.&lt;/li&gt;
-&lt;li&gt;Rickless, Samuel C. &amp;lsquo;The Argument for Idealism in the First Dialogue&amp;rsquo; In &lt;em&gt;Berkeley’s Argument for Idealism&lt;/em&gt;. Oxford University Press, 2013, pp. 138–87.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-idealism&#34;&gt;Lecture 4: Idealism&lt;/h2&gt;
-
-&lt;p&gt;If all objects of perception and knowledge are mind-dependent, then it seems idealism is true. In this lecture we consider different types of idealism, their motivations, and which is ultimately the most attractive. &lt;a href=&#34;https://goo.gl/Z1b33z&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Foster, John. &amp;lsquo;The Succinct Case for Idealism&amp;rsquo; in Howard Robinson (ed.) &lt;em&gt;Objections to Physicalism&lt;/em&gt;. Oxford: Clarendon Press, 1994, pp. 293–315.&lt;/li&gt;
-&lt;li&gt;Moore, G.E. &amp;lsquo;The Refutation of Idealism&amp;rsquo;, &lt;em&gt;Mind&lt;/em&gt;, New Series, 12, no. 48 (1903), pp. 433–53.&lt;/li&gt;
-&lt;li&gt;Russell, Bertrand. &amp;lsquo;Idealism&amp;rsquo; In &lt;em&gt;The Problems of Philosophy&lt;/em&gt;. Williams and Norgate, 1912.&lt;/li&gt;
-&lt;li&gt;Sprigge, Timothy. &amp;lsquo;Idealism&amp;rsquo; in Richard M. Gale (ed.) &lt;em&gt;The Blackwell Guide to Metaphysics&lt;/em&gt;, 1998, pp. 219–41. doi:10.&lt;sup&gt;1002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9780470998984&lt;/sub&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description This lecture course will introduce several key concepts in the philosophy of language and logic. It will cover the syllabus materials on Philosophical Logic (Section B of the paper in Logic). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading An interesting and readable introductory textbook is: Sybil Wolfram (1989), Philosophical Logic: An Introduction, Oxford: Routledge.</description>
     </item>
     
     <item>
@@ -395,88 +50,16 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016mam/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the mind-body problem: the problem of the relation between mind and matter, or mind and body. We will consider the nature of mental life and physical processes, and the competing doctrines of dualism and materialism/physicalism. The nature of mind poses a dilemma for philosophy. If the mind is not physical, then how can it have effects in the physical world? But if the mind is physical, then how can we explain consciousness?&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Crane, Tim, The Mechanical Mind. 2nd ed. (London: Routledge, 2003).&lt;/li&gt;
-&lt;li&gt;Ryle, Gilbert, The Concept of Mind (London: Hutchinson, 1949).&lt;/li&gt;
-&lt;li&gt;Descartes, Rene, Meditations on First Philosophy, 2nd and 6th Meditations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2016mam/&#34;&gt;http://msteenhagen.github.io/teaching/2016mam/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 12-1pm. Lecture Block Room 5&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-distinction-between-mind-and-matter&#34;&gt;Lecture 1: The distinction between mind and matter&lt;/h2&gt;
-
-&lt;p&gt;Descartes famously proposed to conceive of mind and matter as distinct substances. What does this mean? Why should we accept this dualist theory? And what consequences does it have? &lt;a href=&#34;https://goo.gl/49ueG2&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Descartes, René. &lt;em&gt;Meditations on First Philosophy&lt;/em&gt;, 2nd and 6th Meditations&lt;/li&gt;
-&lt;li&gt;Rozemond, Marleen (2008). &amp;ldquo;Descartes&amp;rsquo; Dualism&amp;rdquo; in Janet Broughton John Carriero (eds.) &lt;em&gt;A Companion to Descartes&lt;/em&gt; (Oxford: Blackwell).&lt;/li&gt;
-&lt;li&gt;Crane, Tim and Kati Farkas, (2004). &amp;lsquo;Introduction to part IX&amp;rsquo; in Tim Crane and Katalin Farkas (eds.) &lt;em&gt;Metaphysics: a Guide and Anthology&lt;/em&gt; (Oxford University Press).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-the-problem-of-mental-causation&#34;&gt;Lecture 2: The problem of mental causation&lt;/h2&gt;
-
-&lt;p&gt;One of the classical problems with a dualist theory is how the material world can impact on an immaterial soul, and how the soul in turn is able to change material reality. Can the problem of mental causation be solved? And if not, is the problem fatal for every kind of dualism? &lt;a href=&#34;https://goo.gl/LxhTyP&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fodor, Jerry (1994) &amp;lsquo;The mind-body problem’ in Szubka and Warner (eds.) &lt;em&gt;The Mind-Body Problem&lt;/em&gt; (Oxford: Blackwell).&lt;/li&gt;
-&lt;li&gt;Campbell, Keith (1970). &lt;em&gt;Body and Mind&lt;/em&gt; (Anchor Books). (read the first section)&lt;/li&gt;
-&lt;li&gt;Crane, Tim. ‘Mental Causation’, accessible via the online pages section at www.timcrane.com&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-materialism-and-physicalism&#34;&gt;Lecture 3: Materialism and Physicalism&lt;/h2&gt;
-
-&lt;p&gt;Those who reject a dualist theory typically adopt a form of materialism or physicalism. What does this mean? Why should we accept a physicalist theory of mind, and what are its consequences? &lt;a href=&#34;https://goo.gl/i3t0Ba&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Smart, JJC (1959). &amp;lsquo;Sensations and Brain Processes&amp;rsquo;, &lt;em&gt;Philosophical Review&lt;/em&gt;, 68, reprinted in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt; (Oxford University Press).&lt;/li&gt;
-&lt;li&gt;Armstrong, D.M. ‘The Causal Theory of Mind’ in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Putnam, Hilary ‘The Nature of Mental States’ in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt;.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-the-problem-of-consciousness&#34;&gt;Lecture 4: The problem of consciousness&lt;/h2&gt;
-
-&lt;p&gt;One of the classical problems with a physicalist theory is how the material world can give rise to subjective experience or consciousness. Can the problem of consciousness be solved? And if not, is the problem fatal for every kind of materialism? &lt;a href=&#34;https://goo.gl/azWalo&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jackson, Frank (1982). ‘Epiphenomenal Qualia’ &lt;em&gt;Philosophical Quarterly&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Nagel, Thomas (1974). ‘What is it Like to be a Bat?’ &lt;em&gt;Philosophical Review&lt;/em&gt;, 83, reprinted in his &lt;em&gt;Mortal Questions&lt;/em&gt; (Cambridge University Press) and in Crane and Farkas (eds.) &lt;em&gt;Metaphysics: a Guide and Anthology&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Anthony, Louise (2008). ‘The Mental and the Physical’ in &lt;em&gt;Routledge Companion to Metaphysics&lt;/em&gt; (London: Routledge).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the mind-body problem: the problem of the relation between mind and matter, or mind and body. We will consider the nature of mental life and physical processes, and the competing doctrines of dualism and materialism/physicalism. The nature of mind poses a dilemma for philosophy. If the mind is not physical, then how can it have effects in the physical world? But if the mind is physical, then how can we explain consciousness?</description>
+    </item>
+    
+    <item>
+      <title>Mind Dependence</title>
+      <link>http://msteenhagen.github.io/teaching/2016mde/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2016mde/</guid>
+      <description>Course description In this course we will consider how philosophers have defended the mind-dependence of some or all objects of experience. In its most extreme forms, such defences of mind-dependence result in Idealistic views about the nature of reality as we know it. But the more widely accepted distinction between primary and secondary qualities of experience equally reduces important features of the world to mere modifications of mind or experience.</description>
     </item>
     
     <item>
@@ -485,106 +68,9 @@
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016plo/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;This course will introduce several key concepts in the philosophy of language and logic. It will cover the syllabus materials on Philosophical Logic (Section B of the paper in Logic). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;An interesting and readable introductory textbook is: Sybil Wolfram (1989), &lt;em&gt;Philosophical Logic: An Introduction&lt;/em&gt;, Oxford: Routledge.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2016plo/&#34;&gt;http://msteenhagen.github.io/teaching/2016plo/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Wednesday 2-3pm. Lecture Block Room 1&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-necessity&#34;&gt;Lecture 1: Necessity&lt;/h2&gt;
-
-&lt;p&gt;What explains the necessity of some truths? This lecture discusses the notion of a necessary truth, and related notions of analytic statements and &lt;em&gt;a priori&lt;/em&gt; knowledge. (&lt;a href=&#34;https://goo.gl/xDoso2&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;A. J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, ch. 4.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-rigid-designation&#34;&gt;Lecture 2: Rigid Designation&lt;/h2&gt;
-
-&lt;p&gt;Can empirical truths be necessary? This lecture considers the possibility of necessary but a posteriori truths. (&lt;a href=&#34;https://goo.gl/rFxouU&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Saul A. Kripke (1971), &amp;lsquo;Identity and Necessity,&amp;rsquo; in M.K. Munitz (ed.), &lt;em&gt;Identity and Individuation&lt;/em&gt;. New York: New York University Press. 135-164. &lt;a href=&#34;http://home.sandiego.edu/~baber/metaphysics/readings/Kripke.IdentityAndNecessity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-meaning&#34;&gt;Lecture 3: Meaning&lt;/h2&gt;
-
-&lt;p&gt;Where does meaning come from? This lecture discusses the relation between the meaning of a communicative utterance and the thoughts of its utterer. (&lt;a href=&#34;https://goo.gl/PUw2GL&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;H. P. Grice (1957), &amp;lsquo;Meaning,&amp;rsquo; &lt;em&gt;The Philosophical Review&lt;/em&gt; (66:3), pp. 377-388.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-natural-language&#34;&gt;Lecture 4: Natural Language&lt;/h2&gt;
-
-&lt;p&gt;Can there be linguistic meaning without thought? This lecture considers whether linguistic, communicative meaning can emerge independent of thought. (&lt;a href=&#34;https://goo.gl/kaCZRo&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Ruth G. Millikan (2005), &amp;lsquo;The Language-Thought Partnership&amp;rsquo; in &lt;em&gt;Language: A Biological Model&lt;/em&gt;, Oxford: Oxford University Press. Online at: &lt;a href=&#34;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&#34;&gt;http://web2.uconn.edu/philosophy/department/millikan/hj-glock.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-5-natural-language-vs-formal-language&#34;&gt;Lecture 5: Natural Language vs Formal Language&lt;/h2&gt;
-
-&lt;p&gt;Can you formalise everyday conversations? This lecture discusses the similarities and differences between natural and formal languages. (&lt;a href=&#34;https://goo.gl/O5Ee08&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-4&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Mark Sainsbury (2001), &amp;lsquo;The Project of Formalization,&amp;rsquo; (ch. 6) in &lt;em&gt;Logical Forms: An Introduction to Philosophical Logic&lt;/em&gt;, Oxford: Blackwell, 339-391.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-6-conditionals&#34;&gt;Lecture 6: Conditionals&lt;/h2&gt;
-
-&lt;p&gt;What is the relation between truth-functional operators and their everyday counterparts? This lecture discusses attempts to offer a formal definition of ordinary &amp;lsquo;if&amp;hellip;, then&amp;hellip;&amp;rsquo; locutions. (&lt;a href=&#34;https://goo.gl/UBzTEK&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-5&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Dorothy Edgington (2008), &amp;lsquo;Conditionals&amp;rsquo;, in E.N. Zalta, ed., &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt; (Winter Edition) [Online]. Available at: &lt;a href=&#34;http://plato.stanford.edu/entries/conditionals/&#34;&gt;http://plato.stanford.edu/entries/conditionals/&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-7-deeper-into-the&#34;&gt;Lecture 7: Deeper into &amp;lsquo;the&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;How do descriptions work? This lecture introduces philosophical discussion about definite descriptions. (&lt;a href=&#34;https://goo.gl/EKw9an&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-6&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Bertrand Russell (1905), &amp;lsquo;On Denoting&amp;rsquo; &lt;em&gt;Mind&lt;/em&gt; (14), 479-93.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-8-referring-descriptions&#34;&gt;Lecture 8: Referring Descriptions&lt;/h2&gt;
-
-&lt;p&gt;Can assertions using definite descriptions refer while being false? This lecture considers the significance of referring uses of descriptive statements. (&lt;a href=&#34;https://goo.gl/Bgz3xr&#34;&gt;handout&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-7&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Keith Donnellan (1966), &amp;lsquo;Reference and Definite Descriptions,&amp;rsquo; &lt;em&gt;Philosophical Review&lt;/em&gt; (75), 281-304. &lt;a href=&#34;http://www.jstor.org/stable/2183143&#34;&gt;http://www.jstor.org/stable/2183143&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description This course will introduce several key concepts in the philosophy of language and logic. It will cover the syllabus materials on Philosophical Logic (Section B of the paper in Logic). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading An interesting and readable introductory textbook is: Sybil Wolfram (1989), Philosophical Logic: An Introduction, Oxford: Routledge.
+Online resources Outlines and handouts will be made available on: http://msteenhagen.</description>
     </item>
     
     <item>
@@ -593,66 +79,8 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016per/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These four lectures will consider the nature and persistence of persons over time. A particular focus will be on the recent debate about Animalism. The lectures will cover the Part 2 syllabus materials on Persons for the paper on Metaphysics. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;Those looking for an introduction may consult the Stanford Encyclopedia, which has a useful &lt;a href=&#34;http://plato.stanford.edu/entries/animalism/&#34;&gt;entry on Animalism&lt;/a&gt;. An excellent collection of essays about Animalism is: Stephen Blatti and Paul F. Snowdon, eds. (2016), &lt;em&gt;Animalism: New Essays on Persons, Animals, &amp;amp; Identity&lt;/em&gt;, Oxford: Oxford University Press. [&lt;a href=&#34;http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199608751.001.0001/acprof-9780199608751&#34;&gt;Access via Oxford Scholarship Online&lt;/a&gt;]&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2016per/&#34;&gt;http://msteenhagen.github.io/teaching/2016per/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Tuesday 1-2. Lecture Block Room 9&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-life-of-a-person&#34;&gt;Lecture 1: The Life of a Person&lt;/h2&gt;
-
-&lt;p&gt;Are you essentially alive? This lecture will discuss the role leading a life plays in our understanding of the nature and persistence conditions of persons. &lt;a href=&#34;https://goo.gl/FrthiX&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Richard Wollheim (1984), &amp;lsquo;Living,&amp;rsquo; in &lt;em&gt;The Thread of Life&lt;/em&gt;. Cambridge: Cambridge University Press, 1-32. (&lt;a href=&#34;http://msteenhagen.github.io/pdf/wollheim-tol-ch1.pdf&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-animalism&#34;&gt;Lecture 2: Animalism&lt;/h2&gt;
-
-&lt;p&gt;What if we are animals? This lecture will consider the prospects of a theory of the persistence of persons in terms of an identity relation between the person and an animal. Special attention will be paid to the different versions of Animalism. &lt;a href=&#34;https://goo.gl/DeEgYr&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Eric Olson (2003), &amp;lsquo;An Argument for Animalism,&amp;rsquo; in &lt;em&gt;Personal Identity&lt;/em&gt;. R. Martin and J. Barresi (eds.), Oxford: Blackwell, pp. 318–34.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-remnant-persons&#34;&gt;Lecture 3: Remnant Persons&lt;/h2&gt;
-
-&lt;p&gt;How much of a person&amp;rsquo;s body can be safely removed? This lecture will consider some of the most pressing questions facing the Animalist theory, especially the way in which Animalism has difficulty accounting for leftover persons. &lt;a href=&#34;https://goo.gl/fF0Heb&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Mark Johnston (2007), &amp;lsquo;&amp;ldquo;Human Beings&amp;rdquo; Revisited: My Body is Not an Animal,&amp;rsquo; in &lt;em&gt;Oxford Studies in Metaphysics&lt;/em&gt;, vol. 3, D.W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 33–74.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-dead-animals&#34;&gt;Lecture 4: Dead Animals&lt;/h2&gt;
-
-&lt;p&gt;What is the significance of death for the life and existence of a person? This lecture will consider the view that animals are not essentially alive. &lt;a href=&#34;https://goo.gl/cyODwv&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Paul Snowdon (2014), &amp;lsquo;Animalism and the Lives of Human Animals,&amp;rsquo; &lt;em&gt;South J Philos&lt;/em&gt; (52), 171–184. doi:10.1111/sjp.12074&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These four lectures will consider the nature and persistence of persons over time. A particular focus will be on the recent debate about Animalism. The lectures will cover the Part 2 syllabus materials on Persons for the paper on Metaphysics. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading Those looking for an introduction may consult the Stanford Encyclopedia, which has a useful entry on Animalism.</description>
     </item>
     
   </channel>

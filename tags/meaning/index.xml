@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meaning on msteenhagen</title>
-    <link>http://msteenhagen.github.io/tags/meaning/index.xml</link>
+    <link>http://msteenhagen.github.io/tags/meaning/</link>
     <description>Recent content in Meaning on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
-    <atom:link href="http://msteenhagen.github.io/tags/meaning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://msteenhagen.github.io/tags/meaning/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Verificationism</title>
@@ -15,97 +18,9 @@
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2019ver/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;What is the connection between the meaning of a sentence and its verification conditions? This series of four lectures will present the motivations and fate of the early-twentieth century verification theory of meaning.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AYER, A.J., Language, Truth and Logic. 2nd ed. (London: Gollancz, 1946), Introduction &amp;amp; ch. 1.&lt;/li&gt;
-&lt;li&gt;QUINE, W.V., &amp;lsquo;Two Dogmas of Empiricism&amp;rsquo;, Philosophical Review, 60 (1951): 20-43. &lt;a href=&#34;http://www.jstor.org/stable/2181906&#34;&gt;http://www.jstor.org/stable/2181906&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;MISAK, Cheryl, Verificationism (London: Routledge, 1995).&lt;/li&gt;
-&lt;li&gt;HAACK, Susan, Philosophy of Logics (Cambridge: Cambridge University Press, 1978), ch. 7 &amp;lsquo;Theories of truth&amp;rsquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2019ver/&#34;&gt;http://msteenhagen.github.io/teaching/2019ver/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 12-1. Lecture Block Room 4&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-verification-principle&#34;&gt;Lecture 1: The Verification Principle&lt;/h2&gt;
-
-&lt;p&gt;Logical empiricism aims to build a theory of meaning on an empiricist foundation. This lecture will introduce its central thesis: that, in Morris Schlick&amp;rsquo;s words, &amp;ldquo;the meaning of a statement consists in its method of verification&amp;rdquo;.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AYER, A.J., Language, Truth and Logic. 2nd ed. (London: Gollancz, 1946), Introduction &amp;amp; ch. 1.&lt;/li&gt;
-&lt;li&gt;SCHLICK, Moritz, &amp;lsquo;Meaning and Verification&amp;rsquo;, Philosophical Review, 45 (1936): 339-69.&lt;/li&gt;
-&lt;li&gt;MISAK, Cheryl, Verificationism: Its History and Prospects (London: Routledge, 1995), especially ch. 2.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/i7XMQp&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-criticisms-of-the-verification-principle&#34;&gt;Lecture 2: Criticisms of the Verification Principle&lt;/h2&gt;
-
-&lt;p&gt;This lecture will look at the reception of the verificationist theory of meaning and develop several objections to the formulation and consequences of its central thesis.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BERLIN, Isaiah, &amp;lsquo;Verification&amp;rsquo;, Proceedings of the Aristotelian Society, 39 (1938-39): 225- 48. &lt;a href=&#34;http://www.jstor.org/stable/4544328&#34;&gt;http://www.jstor.org/stable/4544328&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;CHURCH, Alonzo, &amp;lsquo;Review of Language, Truth, and Logic&amp;rsquo;, The Journal of Symbolic Logic, 14 (1949): 52-53.&lt;/li&gt;
-&lt;li&gt;HEMPEL, Carl G., &amp;lsquo;Problems and Changes in the Empiricist Criterion of Meaning&amp;rsquo;, Revue Internationale de Philosophie, 11 (1950): 41-63.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/K9u2Zu&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-dogmas-of-empiricism&#34;&gt;Lecture 3: Dogmas of Empiricism&lt;/h2&gt;
-
-&lt;p&gt;This lecture will discuss W.V.O. Quine&amp;rsquo;s terrific and radical criticism of the entire project of logical empiricism, which is aimed at the ideology underlying the verification principle.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;QUINE, W.V., &amp;lsquo;Two Dogmas of Empiricism&amp;rsquo;, Philosophical Review, 60 (1951): 20-43. &lt;a href=&#34;http://www.jstor.org/stable/2181906&#34;&gt;http://www.jstor.org/stable/2181906&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;REY, Georges, &amp;lsquo;The Analytic/Synthetic Distinction&amp;rsquo;, in E.N. Zalta, ed., Stanford Encyclopedia of Philosophy (Winter 2016 edition).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/HxD8AQ&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-semantic-holism&#34;&gt;Lecture 4: Semantic Holism&lt;/h2&gt;
-
-&lt;p&gt;This lecture will explore Quine&amp;rsquo;s positive suggestion for how an empiricist theory of meaning should look.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;QUINE, W.V., The Ways of Paradox (Cambridge, MA: Harvard University Press, 1966), ch. 10 &amp;lsquo;Necessary truth&amp;rsquo;.&lt;/li&gt;
-&lt;li&gt;DANCY, Jonathan, Introduction to Contemporary Epistemology (Oxford: Blackwell, 1985), ch. 6 &amp;lsquo;Empiricist theories&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/JMvsia&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description What is the connection between the meaning of a sentence and its verification conditions? This series of four lectures will present the motivations and fate of the early-twentieth century verification theory of meaning.
+Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading  AYER, A.J., Language, Truth and Logic. 2nd ed. (London: Gollancz, 1946), Introduction &amp;amp; ch.</description>
     </item>
     
     <item>
@@ -114,72 +29,11 @@
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018cda/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the philosophical discussion about conditionals. For this, we need to ask what the relation is between the meaning of formal languages and the meaning of natural languages.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2018cda/&#34;&gt;http://msteenhagen.github.io/teaching/2018cda/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Monday 3-4pm. Lecture Block Room 1.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-meaning-and-natural-language&#34;&gt;Lecture 1: Meaning and natural language&lt;/h2&gt;
-
-&lt;p&gt;This lecture will discuss Grice&amp;rsquo;s theory of sentence meaning and communicative intentions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/229Nur&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suggested-reading&#34;&gt;Suggested reading&lt;/h3&gt;
-
-&lt;p&gt;H.P. Grice (1957), ‘Meaning’, The Philosophical Review, Vol. 66, No. 3. (Jul., 1957), pp. 377-388.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-logic-and-conversation&#34;&gt;Lecture 2: Logic and conversation&lt;/h2&gt;
-
-&lt;p&gt;This lecture will expand on Grice&amp;rsquo;s theory of sentence meaning, by considering the role and behaviour of conventional and conversational implicature.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/HDkrEN&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suggested-reading-1&#34;&gt;Suggested reading&lt;/h3&gt;
-
-&lt;p&gt;H. P. Grice (1957), ‘Logic and Conversation’ in Peter Cole and Jerry L. Morgan (eds.) Syntax and Semantics, Vol. 3, Speech Acts, New York: Academic Press 1975 (Also in Grice’s Studies in the Ways of Words)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-paradoxes-of-natural-language&#34;&gt;Lecture 3: Paradoxes of natural language&lt;/h2&gt;
-
-&lt;p&gt;This lecture will introduce the paradoxes of conditionals, which occur when we try to transition between natural and formal languages. We will try to resolve these paradoxes by using Grice&amp;rsquo;s theory of implicature.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/cc717P&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suggested-reading-2&#34;&gt;Suggested reading&lt;/h3&gt;
-
-&lt;p&gt;Mark Sainsbury (2001), ‘The Project of Formalization,’ (ch. 6) in Logical Forms: An Introduction to Philosophical Logic, Oxford: Blackwell, 339-391.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-conditionals-two-approaches-approaches&#34;&gt;Lecture 4: Conditionals: two approaches approaches&lt;/h2&gt;
-
-&lt;p&gt;In this lecture we will look at problems with the Gricean solution to the paradoxes of conditionals, and consider an alternative approach&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/kkwtp3&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suggested-reading-3&#34;&gt;Suggested reading&lt;/h3&gt;
-
-&lt;p&gt;Dorothy Edgington (2008), ‘Conditionals’, in E.N. Zalta, ed., Stanford Encyclopedia of Philosophy (Winter Edition) [Online].&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the philosophical discussion about conditionals. For this, we need to ask what the relation is between the meaning of formal languages and the meaning of natural languages.
+Online resources Outlines and handouts will be made available on:
+http://msteenhagen.github.io/teaching/2018cda/
+Where and when Monday 3-4pm. Lecture Block Room 1.
+Lecture 1: Meaning and natural language This lecture will discuss Grice&amp;rsquo;s theory of sentence meaning and communicative intentions.</description>
     </item>
     
     <item>
@@ -188,78 +42,8 @@
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018naa/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;This course will introduce several key distinctions: analytic / synthetic; a priori / a posteriori; and necessary / contingent. It will cover the syllabus materials on Analyticity, A Priority, and Necessity (the first section of Paper 3, Meaning). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;An interesting and readable introductory textbook is: Sybil Wolfram (1989), &lt;em&gt;Philosophical Logic: An Introduction&lt;/em&gt;, Oxford: Routledge.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2017plo/&#34;&gt;http://msteenhagen.github.io/teaching/2017plo/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Monday 3-4pm. Lecture Block Room 1&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-necessity&#34;&gt;Lecture 1: Necessity&lt;/h2&gt;
-
-&lt;p&gt;What is necessity? Can we distinguish different forms of necessity? This lecture discusses the notion of a necessary truth, and presents a model for such truths using possible worlds. (&lt;a href=&#34;https://goo.gl/zUomMb&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;W.V.O. Quine (1956), ‘Quantifiers and propositional attitudes’ &lt;em&gt;The Journal of Philosophy&lt;/em&gt; 53, 177-187.&lt;/li&gt;
-&lt;li&gt;W.V.O. Quine (1943), ‘Notes on existence and necessity’  &lt;em&gt;The Journal of Philosophy&lt;/em&gt; 40, 113-127&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-analyticity-and-a-priority&#34;&gt;Lecture 2: Analyticity and A priority&lt;/h2&gt;
-
-&lt;p&gt;What explains the necessity of truths? This lecture continues the discussion of necessary truth, and considers whether a statement&amp;rsquo;s analyticity is an adequate explanation of necessity. This leads to a classic empiricist view that necessity, analyticity and a priority stand or fall together. (&lt;a href=&#34;https://goo.gl/Erszdt&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A. J. Ayer (1946), &lt;em&gt;Language, Truth and Logic&lt;/em&gt; (2nd ed.), London: Gollancz, ch. 4.&lt;/li&gt;
-&lt;li&gt;David Papineau (2012), &lt;em&gt;Philosophical Devices&lt;/em&gt; Oxford: Oxford University Press. (Part II, Chs 4-5)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-necessary-but-synthetic-truths&#34;&gt;Lecture 3: Necessary but synthetic truths&lt;/h2&gt;
-
-&lt;p&gt;Can empirical truths be necessary? This lecture introduces Kripke&amp;rsquo;s notion of a &amp;lsquo;rigid designator&amp;rsquo;, and considers the possibility of necessary but a posteriori truths.&lt;/p&gt;
-
-&lt;p&gt;For the &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt;, Joseph LaPorte wrote a good and detailed discussion of rigid designators. As is usual with the &lt;em&gt;SEP&lt;/em&gt;, the entry contains clear introductions of the main ideas, followed by increasingly advanced material. I don&amp;rsquo;t expect you to be able to follow all of it (yet), but I can recommend reading at least the introduction (§1) and section (§3): &lt;a href=&#34;https://plato.stanford.edu/entries/rigid-designators/&#34;&gt;https://plato.stanford.edu/entries/rigid-designators/&lt;/a&gt; (&lt;a href=&#34;https://goo.gl/nEdRdw&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Saul A. Kripke (1971), &amp;lsquo;Identity and Necessity,&amp;rsquo; in M.K. Munitz (ed.), &lt;em&gt;Identity and Individuation&lt;/em&gt;. New York: New York University  Press. 135-164. &lt;a href=&#34;http://home.sandiego.edu/~baber/metaphysics/readings/Kripke.IdentityAndNecessity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-reference-and-description&#34;&gt;Lecture 4: Reference and description&lt;/h2&gt;
-
-&lt;p&gt;This lecture continues our discussion of rigid designators, and considers the possibility of a priori truths that are contingent. (&lt;a href=&#34;https://goo.gl/ygSYKg&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Saul A. Kripke (1971), &amp;lsquo;A Priori Knowledge, Necessity, and Contingency&amp;rsquo;, in P.K. Moser, ed., A Priori Knowledge (Oxford: Oxford University Press, 1987), ch. 7. (Excerpt of his Naming and Necessity)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description This course will introduce several key distinctions: analytic / synthetic; a priori / a posteriori; and necessary / contingent. It will cover the syllabus materials on Analyticity, A Priority, and Necessity (the first section of Paper 3, Meaning). Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading An interesting and readable introductory textbook is: Sybil Wolfram (1989), Philosophical Logic: An Introduction, Oxford: Routledge.</description>
     </item>
     
   </channel>

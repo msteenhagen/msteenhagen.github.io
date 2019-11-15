@@ -1,9 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://msteenhagen.github.io/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/talk/torino/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/talk/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/talk/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>http://msteenhagen.github.io/publication/naive-realism-relationalism/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/publication/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/lent-2019/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/metaphysics-and-epistemology/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12,8 +58,38 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2019dua/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/metaphyisics/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-ia/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/logic/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/meaning/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-ib/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +103,22 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/michaelmas-2018/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2018mre/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-ii/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/philosophy-of-mind/</loc>
     <lastmod>2018-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -37,7 +128,17 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/metaphysics/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2018naa/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/part-1a/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +150,11 @@
   <url>
     <loc>http://msteenhagen.github.io/teaching/2018con/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/lent-2018/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -72,8 +178,18 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/part-2/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/talk/mcr-scr/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/philosophical-logic/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -87,8 +203,18 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/michaelmas-2017/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/teaching/2017plo/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/early-modern-philosophy/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -102,6 +228,11 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/tags/conference/</loc>
+    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/talk/fribourgh/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url>
@@ -109,6 +240,11 @@
   <url>
     <loc>http://msteenhagen.github.io/talk/tuebingen/</loc>
     <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/post/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -157,7 +293,12 @@
   </url>
   
   <url>
-    <loc>http://msteenhagen.github.io/teaching/2016mde/</loc>
+    <loc>http://msteenhagen.github.io/tags/lent-2017/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/mind/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -167,8 +308,18 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/teaching/2016mde/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/talk/seeinghearing/</loc>
     <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/tags/michaelmas-2016/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -212,7 +363,17 @@
   </url>
   
   <url>
+    <loc>http://msteenhagen.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://msteenhagen.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://msteenhagen.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -247,188 +408,7 @@
   </url>
   
   <url>
-    <loc>http://msteenhagen.github.io/tags/conference/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/early-modern-philosophy/</loc>
-    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/home/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/lent-2017/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/lent-2018/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/lent-2019/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/logic/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/meaning/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/metaphyisics/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/metaphysics/</loc>
-    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/metaphysics-and-epistemology/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/michaelmas-2016/</loc>
-    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/michaelmas-2017/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/michaelmas-2018/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/mind/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-1a/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-1b/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-2/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-ia/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-ib/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/part-ii/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/philosophical-logic/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/philosophy-of-mind/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/post/</loc>
-    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/publication/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/tags/talk/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/talk/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/teaching/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://msteenhagen.github.io/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://msteenhagen.github.io/categories/</loc>
   </url>
   
 </urlset>

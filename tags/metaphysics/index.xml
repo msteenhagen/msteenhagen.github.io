@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metaphysics on msteenhagen</title>
-    <link>http://msteenhagen.github.io/tags/metaphysics/index.xml</link>
+    <link>http://msteenhagen.github.io/tags/metaphysics/</link>
     <description>Recent content in Metaphysics on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
-    <atom:link href="http://msteenhagen.github.io/tags/metaphysics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://msteenhagen.github.io/tags/metaphysics/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Induction and Causation</title>
@@ -15,60 +18,13 @@
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018inc/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the problems of induction and the metaphysics of causation (or causality, or cause and effect).&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2018inc/&#34;&gt;http://msteenhagen.github.io/teaching/2018inc/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 10-11. Lecture Block Room 1.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-hume-and-the-problem-of-induction&#34;&gt;Lecture 1: Hume and the problem of induction&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce the idea of induction, and discuss David Hume&amp;rsquo;s problem of induction.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/zY7H8V&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-goodman-s-new-riddle-of-induction&#34;&gt;Lecture 2: Goodman&amp;rsquo;s new riddle of induction&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I discuss Nelson Goodman&amp;rsquo;s &amp;lsquo;new riddle&amp;rsquo; of induction, and will contrast it with the old riddle formulated by David Hume.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/PrdNL9&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-causes-and-regularities&#34;&gt;Lecture 3: Causes and regularities&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Hume’s sceptical approach to causation, and show how it has led the way for regularity theories of causation. There are some problems with such theories. In particular, regularity theories seem to have little to say about the particular events that seem to be fundamental to causal interaction.&lt;/p&gt;
-
-&lt;p&gt;J.L. Mackie offers an analysis that identifies these particular events as special conditions: INUS conditions. His suggestion is that something is a cause if it is at least an INUS condition for an effect. I close by discussing three problems with Mackie&amp;rsquo;s theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/PGHB9G&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-counterfactual-theories&#34;&gt;Lecture 4: Counterfactual theories&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Lewis&amp;rsquo; framework for thinking about counterfactual conditionals, and show how he applies this framework to a theory of causation. Causal dependence is a relation between distinct events that is defined in terms of counterfactual dependence relations between statements about these events&amp;rsquo; occurrence (or absence thereof).&lt;/p&gt;
-
-&lt;p&gt;The counterfactual theory gives rise to question baout the asymmetry and transitivity of causation, and does not always deal well with cases of overdetermination and pre-emption.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/G918QE&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the problems of induction and the metaphysics of causation (or causality, or cause and effect).
+Online resources Outlines and handouts will be made available on:
+http://msteenhagen.github.io/teaching/2018inc/
+Where and when Friday 10-11. Lecture Block Room 1.
+Lecture 1: Hume and the problem of induction In this lecture I introduce the idea of induction, and discuss David Hume&amp;rsquo;s problem of induction.
+(Download handout here)
+Lecture 2: Goodman&amp;rsquo;s new riddle of induction In this lecture I discuss Nelson Goodman&amp;rsquo;s &amp;lsquo;new riddle&amp;rsquo; of induction, and will contrast it with the old riddle formulated by David Hume.</description>
     </item>
     
     <item>
@@ -77,86 +33,7 @@
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018cau/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;The relation between causes and effects is typically taken to have a direction (it&amp;rsquo;s asymmetric). Whenever &lt;em&gt;C&lt;/em&gt; is a cause of &lt;em&gt;E&lt;/em&gt;, then &lt;em&gt;E&lt;/em&gt; is not a cause of &lt;em&gt;C&lt;/em&gt;. Moreover, this directionality seems aligned with both the temporal arrow and with patterns of practical deliberation. How do we explain this feature? Not all philosophical analyses of causation capture the concept of causal direction in the same way, if they capture it at all. In this course we will consider several theories of causation and highlight what they have to say about the direction of the causal arrow.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Schaffer&amp;rsquo;s SEP-entry &amp;lsquo;The Metaphysics of Causation&amp;rsquo;: &lt;a href=&#34;https://plato.stanford.edu/entries/causation-metaphysics/&#34;&gt;https://plato.stanford.edu/entries/causation-metaphysics/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Paul, L.A. and Ned Hall. &lt;em&gt;Causation: A User&amp;rsquo;s Guide&lt;/em&gt;. Oxford: Oxford University Press, 2013. (Only touches on the problem of asymmetry, but an excellent recent introduction.)&lt;/li&gt;
-&lt;li&gt;James Woodward. &lt;em&gt;Making Things Happen: A Theory of Causal Explanation&lt;/em&gt;. Oxford: Oxford University Press, 2003.&lt;/li&gt;
-&lt;li&gt;Anjum, Rani Lill and Stephen Mumford. Getting Causes From Powers. Oxford: Oxford University Press, 2011.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2018cau/&#34;&gt;http://msteenhagen.github.io/teaching/2018cau/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Wednesday 3-4. Lecture Block Room 7&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-causation-and-the-symmetry-of-correlation&#34;&gt;Lecture 1: Causation and the symmetry of correlation&lt;/h2&gt;
-
-&lt;p&gt;This lecture will focus on several related features of the causal relation: it is asymmetric, and in a way that is closely tied to the directionality of time. Moreover, the causal relation seems to constrain practical deliberation. Many philosophers think that these features require explanation by a philosophical analysis of causation. We will identify some constraints this puts on an adequate theory of causation.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Price, Huw and Brad Weslake, &amp;lsquo;The Time-Asymmetry of Causation&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 414–43. (Good overview of the issues)&lt;/li&gt;
-&lt;li&gt;Papineau, David. &amp;lsquo;Causal Asymmetry&amp;rsquo;. &lt;em&gt;The British Journal for the Philosophy of Science&lt;/em&gt;, Vol. 36, No. 3 (Sep., 1985), pp. 273-289. (Tries to account for asymmetry in terms of asymmetry of &amp;lsquo;screening off&amp;rsquo;)&lt;/li&gt;
-&lt;li&gt;Russell, Bertrand, &amp;lsquo;On the Notion of a Cause&amp;rsquo;, Proceedings of the Aristotelian Society, 13 (1913): 1-26. (For an eliminativist account)&lt;/li&gt;
-&lt;li&gt;Cartwright, Nancy, &amp;lsquo;Causal Laws and Effective Strategies&amp;rsquo;, Noûs, 13 (1979): 419-37. (Criticism of eliminativism)&lt;/li&gt;
-&lt;li&gt;Tooley, Michael, &lt;em&gt;Causation: A Realist Approach&lt;/em&gt;, Clarendon Press, Oxford. 1987. (For a primitivist account)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/P1UCD3&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-counterfactuals&#34;&gt;Lecture 2: Counterfactuals&lt;/h2&gt;
-
-&lt;p&gt;The central idea behind a counterfactual analysis of causation is that for two causally related events, had the cause not occurred, the effect would not have occurred, or there is at least a chain of causal dependence connecting the two. How can the counterfactual analysis deal with the direction and asymmetry of causation, and does it succeed?&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;David Lewis, ‘Causation’, &lt;em&gt;Journal of Philosophy&lt;/em&gt; 70 (1973): 556-67. Reprinted in Lewis’s &lt;em&gt;Philosophical Papers&lt;/em&gt;, Volume II (New York: Oxford University Press, 1986)&lt;/li&gt;
-&lt;li&gt;David Lewis, ‘Counterfactual Dependence and Time&amp;rsquo;s Arrow,’ &lt;em&gt;Nous&lt;/em&gt; 13(4), 1979. 455-476.&lt;/li&gt;
-&lt;li&gt;Price, Huw and Brad Weslake,  &amp;lsquo;The Time-Asymmetry of Causation&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 414–43.&lt;/li&gt;
-&lt;li&gt;Paul, L.A, 2009. &amp;lsquo;Counterfactual Theories&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 158–84.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/9eeB6o&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-manipulability-and-intervention&#34;&gt;Lecture 3: Manipulability and Intervention&lt;/h2&gt;
-
-&lt;p&gt;This lecture will discuss theories which invoke manipulability, intervention, or agency to account for causation. Such theories tend observe that a statement about causation is very closely connected to statements about techniques or ways or recipes for bringing things about. Causation becomes a mind-centered phenomenon. What does that tell us about the properties of the causal relation?&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gasking, Douglas &amp;lsquo;Causation and Recipes&amp;rsquo;, &lt;em&gt;Mind&lt;/em&gt; Vol. 64, No. 256 (Oct., 1955), pp. 479-487.&lt;/li&gt;
-&lt;li&gt;Menzies, Peter and Huw Price, &amp;lsquo;Causation as Secondary Property&amp;rsquo;, &lt;em&gt;The British Journal for the Philosophy of Science&lt;/em&gt;, Vol. 44, No. 2 (Jun., 1993), pp. 187-203.&lt;/li&gt;
-&lt;li&gt;Woodward, James. &lt;em&gt;Making Things Happen: A Theory of Causal Explanation&lt;/em&gt;. Oxford: Oxford University Press, 2003.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/cBoVYK&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description The relation between causes and effects is typically taken to have a direction (it&amp;rsquo;s asymmetric). Whenever C is a cause of E, then E is not a cause of C. Moreover, this directionality seems aligned with both the temporal arrow and with patterns of practical deliberation. How do we explain this feature? Not all philosophical analyses of causation capture the concept of causal direction in the same way, if they capture it at all.</description>
     </item>
     
     <item>
@@ -165,81 +42,9 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2018rea/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These four lectures will discuss Michael Dummett&amp;rsquo;s and Hilary Putnam&amp;rsquo;s objections to metaphysical realism.&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Weeks 1-4, Friday 10-11, Lecture Block Room 7&lt;/p&gt;
-
-&lt;h2 id=&#34;lecture-1-realism&#34;&gt;Lecture 1: Realism&lt;/h2&gt;
-
-&lt;p&gt;This lecture introduces the discussion about realism. We can distinguish three forms realism can take: metaphysical, epistemological, and semantic. Metaphysical realism has been criticised from an epistemological angle by idealist philosophers. Semantic realism has been the target of recent discussions. Michael Dummett claims that the semantic realist&amp;rsquo;s core commitment is the principle of bivalence. Hilary Putnam, who also develops a semantic criticism, gives a characterisation of realism that combines metaphysical, epistemological, and semantic claims.&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Michael Dummett, &amp;lsquo;The Reality of the Past&amp;rsquo; (1969) (Reprinted in &lt;em&gt;Truth and Other Enigmas&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Tim Button, &lt;em&gt;The Limits of Realism&lt;/em&gt; (OUP, 2016), Ch. 1&lt;/li&gt;
-&lt;li&gt;Mathieu Marion, &amp;lsquo;Oxford Realism: Knowledge and Perception&amp;rsquo;, &lt;em&gt;British Journal for the History of Philosophy&lt;/em&gt;, 8:2, 299-338&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/2V6HL2&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;lecture-2-acquisition-and-manifestation-arguments&#34;&gt;Lecture 2: Acquisition and Manifestation Arguments&lt;/h2&gt;
-
-&lt;p&gt;This lecture presents Michael Dummett&amp;rsquo;s Acquisition and Manifestation arguments. One should notice that Dummett is working with a specific view of language (roughly, a meaning-is-use theory). This means that the connection between meaning and understanding is at least as important as the connection between meaning and truth. Both the arguments exploit the idea that knowledge of meaning is a kind of practical knowledge: it is an ability to distinguish between correct and incorrect assertions of a statement. Can the realist make sense of acquiring such an ability, or manifesting it, if the truth conditions for a statement are verification-transcendent?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/Dfgg47&#34;&gt;(Download handout here)&lt;/a&gt;
-&lt;a href=&#34;https://goo.gl/JSK2vg&#34;&gt;(Download appendix to handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Note, compare the Acquisition argument with Berkeley’s Master Argument. Berkeley: &amp;ldquo;Can you form a conception of an object unperceived? No, because to have a conception of an object is already to perceive it (in your mind’s eye)&amp;rdquo;. The acquisition argument: &amp;ldquo;Can you form a conception of truth conditions that can obtain independently of your knowledge of how to recognise them? No, because to have a conception of truth conditions is already to know how to recognise them.&amp;rdquo; How robust is this parallel?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Michael Dummett (1969), &amp;lsquo;The Reality of the Past&amp;rsquo; (Reprinted in &lt;em&gt;Truth and Other Enigmas&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;John McDowell (1978), &amp;lsquo;On &amp;ldquo;The Reality of the Past&amp;rdquo;&amp;rsquo; in C. Hookway and P. Pettit, eds., &lt;em&gt;Action and Interpretation&lt;/em&gt; (Cambridge: Cambridge University Press), pp. 127- 44.&lt;/li&gt;
-&lt;li&gt;P.F. Strawson (1976), &amp;lsquo;Scruton and Wright on Anti-Realism Etc.&amp;rsquo; &lt;em&gt;Proceedings of the Aristotelian Society&lt;/em&gt; 77, pp. 15-21.&lt;/li&gt;
-&lt;li&gt;Crispin Wright (1993), &lt;em&gt;Realism, Meaning and Truth&lt;/em&gt; (Oxford: Blackwell), &amp;lsquo;Introduction&amp;rsquo; (pp. 1-43) and &amp;lsquo;Strawson on Anti-Realism&amp;rsquo; (sec. V).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lecture-3-model-theoretic-objections-to-external-realism&#34;&gt;Lecture 3: Model-theoretic Objections to External Realism&lt;/h2&gt;
-
-&lt;p&gt;This lecture will present Putnam&amp;rsquo;s model theoretic argument against external realism. The external realist claims that the world is largely independent of us and our sentences are true just if they correspond to the external things and structures of things external world. What the model-theoretic argument shows is that, if there is any way to make the theory true, then there are many ways of making the theory true. Putnam argues that any attempt to introduce a constraint on the external realist theory is &amp;ldquo;just more theory&amp;rdquo;, and so subject to the model-theoretic argument as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/LEUAVD&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Putnam, Hilary, &lt;em&gt;Reason, Truth and History&lt;/em&gt;. Cambridge: Cambridge University Press. 1986.&lt;/li&gt;
-&lt;li&gt;Tim Button, &lt;em&gt;The Limits of Realism&lt;/em&gt; (OUP, 2016), Ch. 1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lecture-4-anti-realism&#34;&gt;Lecture 4: Anti-Realism&lt;/h2&gt;
-
-&lt;p&gt;The anti-realist theory of meaning is (broadly) verificationist. It is fine to understand meaning in terms of truth-conditions, as the realist does too. But we should not understand truth conditions in terms of truth (as the realist does), but in terms of the conditions under which a sentence would be verified, i.e. when we would correctly assert it (verificationism). Classically, S is not true iff S is false, and S is not false iff S is true. But the anti-realist accepts that S can be not verifiable (i.e. not true) and not falsifiable (i.e. not false). Putnam thinks that, apart from adopting a specific philosophy of language, we should also give up certain assumptions about perception.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://goo.gl/fdB6Va&#34;&gt;(Download handout here)&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Note: Classically, we say that S is true iff S is not false, and that S is false iff S is not true. Truth and falsity are interdefinable, using negation. But if S is true iff S is verifiabile, and if S is false iff S is falsifiable, as the anti-realist wants to say, then given that the denial of verifiability is not falsifiability, but unverifiability, we cannot hold on to the classical opposition. Instead, we should say that it is not the case that S is true iff is is not false (S may be not true and also unfalsifiable). Bivalence breaks down. Perhaps this is why Dummett thinks the issue turns on the acceptance or rejection of bivalence. However, it&amp;rsquo;s easy to define falsity in disjunctive terms: S is false iff S is falsifiable or [S is unverifiable and unfalsifiable]. With such a definition, S is true iff S is not false, and S is false iff S is not true. Bivalence is re-instated. This justification of bivalence, however, is thoroughly anti-realist in spirit, and not obviously available to the realist.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Michael Dummett (1969), &amp;lsquo;The Reality of the Past&amp;rsquo; (Reprinted in &lt;em&gt;Truth and Other Enigmas&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Putnam, Hilary, &lt;em&gt;Reason, Truth and History&lt;/em&gt;. Cambridge: Cambridge University Press. 1986.&lt;/li&gt;
-&lt;li&gt;Putnam, Hilary, &amp;lsquo;Sense, Nonsense, and the Senses: An inquiry into the powers of the human mind&amp;rsquo;. &lt;em&gt;The Journal of Philosophy&lt;/em&gt; 91.9, pp. 445–517.&lt;/li&gt;
-&lt;li&gt;Button, Tim, &lt;em&gt;The Limits of Realism&lt;/em&gt; (OUP, 2016), Ch. 8-10.&lt;/li&gt;
-&lt;li&gt;Gardiner, Mark Q., &lt;em&gt;Semantic Challenges to Realism: Dummett and Putnam&lt;/em&gt; University of Toronto Press. 2000.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Course description These four lectures will discuss Michael Dummett&amp;rsquo;s and Hilary Putnam&amp;rsquo;s objections to metaphysical realism.
+Where and when Weeks 1-4, Friday 10-11, Lecture Block Room 7
+Lecture 1: Realism This lecture introduces the discussion about realism. We can distinguish three forms realism can take: metaphysical, epistemological, and semantic. Metaphysical realism has been criticised from an epistemological angle by idealist philosophers. Semantic realism has been the target of recent discussions.</description>
     </item>
     
     <item>
@@ -248,54 +53,10 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2017cau1a/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the metaphysics of causation (or causality, or cause and effect). After a brief introduction to the topic, and some historical background, we will consider the concept of causal necessity and then look at David Hume’s view of causation, followed by David Lewis’s counterfactual theory, and the main objections to it.&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2017cau1a/&#34;&gt;http://msteenhagen.github.io/teaching/2017cau1a/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Thursday 11-12. Lecture Block Room 4&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-very-idea-of-a-cause&#34;&gt;Lecture 1: The very idea of a cause&lt;/h2&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/X5AyAQ&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-regularity-theories&#34;&gt;Lecture 2: Regularity theories&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Hume’s sceptical approach to causation, and show how it has led the way for regularity theories of causation. There are some problems with such theories. In particular, regularity theories seem to have little to say about the particular events that seem to be fundamental to causal interaction. J.L. Mackie offers an analysis that identifies these particular events as special conditions: INUS conditions. His suggestion is that something is a cause if it is at least an INUS condition for an effect. I close by discussing three problems with Mackie&amp;rsquo;s theory.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/oAq2K5&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-counterfactual-theories&#34;&gt;Lecture 3: Counterfactual theories&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I introduce David Lewis&amp;rsquo; framework for thinking about counterfactual conditionals, and show how he applies this framework to a theory of causation. Causal dependence is a relation between distinct events that is defined in terms of counterfactual dependence relations between statements about these events&amp;rsquo; occurrence (or absence thereof).&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/xia78G&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-the-problem-of-redundant-causation&#34;&gt;Lecture 4: The problem of redundant causation&lt;/h2&gt;
-
-&lt;p&gt;In this lecture I continue elaborating David Lewis&amp;rsquo; framework for thinking about causation in terms of causal and counterfactual dependence. I discuss the asymmetry and transitivity of causation, and look at cases of overdetermination and pre-emption.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;https://goo.gl/bQcev8&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the metaphysics of causation (or causality, or cause and effect). After a brief introduction to the topic, and some historical background, we will consider the concept of causal necessity and then look at David Hume’s view of causation, followed by David Lewis’s counterfactual theory, and the main objections to it.
+Online resources Outlines and handouts will be made available on:
+http://msteenhagen.github.io/teaching/2017cau1a/
+Where and when Thursday 11-12.</description>
     </item>
     
     <item>
@@ -304,185 +65,8 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016cau/</guid>
-      <description>
-
-&lt;p&gt;_This is the course page for a course taught in 2017. For the 2018 version, please consult: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2018cau&#34;&gt;http://msteenhagen.github.io/teaching/2018cau&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;The relation between causes and effects is typically taken to be asymmetric. Whenever &lt;em&gt;C&lt;/em&gt; is a cause of &lt;em&gt;E&lt;/em&gt;, then &lt;em&gt;E&lt;/em&gt; is not a cause of &lt;em&gt;C&lt;/em&gt;. But how do we explain this feature? What kind of asymmetry is this? Not all philosophical analyses of causation capture the concept of causal asymmetry equally well. In this course we will consider the metaphysical problem of causal asymmetry, and discuss how different accounts of the nature of causation can explain this asymmetry of causation. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Schaffer&amp;rsquo;s SEP-entry &amp;lsquo;The Metaphysics of Causation&amp;rsquo;: &lt;a href=&#34;https://plato.stanford.edu/entries/causation-metaphysics/&#34;&gt;https://plato.stanford.edu/entries/causation-metaphysics/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Paul, L.A. and Ned Hall. &lt;em&gt;Causation: A User&amp;rsquo;s Guide&lt;/em&gt;. Oxford: Oxford University Press, 2013. (Only touches on the problem of assymmetry, but an excellent recent introduction.)&lt;/li&gt;
-&lt;li&gt;James Woodward. &lt;em&gt;Making Things Happen: A Theory of Causal Explanation&lt;/em&gt;. Oxford: Oxford University Press, 2003.&lt;/li&gt;
-&lt;li&gt;Anjum, Rani Lill and Stephen Mumford. Getting Causes From Powers. Oxford: Oxford University Press, 2011.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2016cau/&#34;&gt;http://msteenhagen.github.io/teaching/2016cau/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Wednesday 3-4. Lecture Block Room 12&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-causation-and-the-symmetry-of-correlation&#34;&gt;Lecture 1: Causation and the symmetry of correlation&lt;/h2&gt;
-
-&lt;p&gt;This lecture will focus on two related features of the causal relation: it is asymmetric, and in a way that is closely tied to the directionality of time. Many philosophers think that these features require explanation by a philosophical analysis of causation. We will identify two constraints this puts on an adequate theory of causation. &lt;a href=&#34;https://goo.gl/HXQPki&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Price, Huw and Brad Weslake, &amp;lsquo;The Time-Asymmetry of Causation&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 414–43.&lt;/li&gt;
-&lt;li&gt;Papineau, David. &amp;lsquo;Causal Asymmetry&amp;rsquo;. &lt;em&gt;The British Journal for the Philosophy of Science&lt;/em&gt;, Vol. 36, No. 3 (Sep., 1985), pp. 273-289.&lt;/li&gt;
-&lt;li&gt;Hausman, Daniel. &lt;em&gt;Causal Asymmetries&lt;/em&gt;. Cambridge: Cambridge University Press, 1998.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-counterfactuals&#34;&gt;Lecture 2: Counterfactuals&lt;/h2&gt;
-
-&lt;p&gt;The central idea behind a counterfactual analysis of causation is that for two causally related events, typically, had the cause not occurred, the effect would not have occurred. How can the counterfactual analysis deal with the causal asymmetry, and does it succeed? &lt;a href=&#34;https://goo.gl/EFYT5B&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;David Lewis, ‘Causation’, &lt;em&gt;Journal of Philosophy&lt;/em&gt; 70 (1973): 556-67. Reprinted in Lewis’s &lt;em&gt;Philosophical Papers&lt;/em&gt;, Volume II (New York: Oxford University Press, 1986)&lt;/li&gt;
-&lt;li&gt;Price, Huw and Brad Weslake,  &amp;lsquo;The Time-Asymmetry of Causation&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 414–43.&lt;/li&gt;
-&lt;li&gt;Paul, L.A, 2009. &amp;lsquo;Counterfactual Theories&amp;rsquo;, in Helen Beebee, Christopher Hitchcock and Peter Menzies (eds), &lt;em&gt;The Oxford Handbook of Causation&lt;/em&gt;. Oxford: Oxford University Press, 2009, pp. 158–84.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-manipulability-and-intervention&#34;&gt;Lecture 3: Manipulability and Intervention&lt;/h2&gt;
-
-&lt;p&gt;This lecture will discuss theories which invoke manipulability, intervention, or agency to account for causation, especially its asymmetry. Such theories tend observe that a statement about causation is very closely connected to statements about techniques or ways or recipes for bringing things about. What does that tell us about the causal relation? &lt;a href=&#34;https://goo.gl/AC3Zmr&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gasking, Douglas &amp;lsquo;Causation and Recipes&amp;rsquo;, &lt;em&gt;Mind&lt;/em&gt; Vol. 64, No. 256 (Oct., 1955), pp. 479-487.&lt;/li&gt;
-&lt;li&gt;Menzies, Peter and Huw Price, &amp;lsquo;Causation as Secondary Property&amp;rsquo;, &lt;em&gt;The British Journal for the Philosophy of Science&lt;/em&gt;, Vol. 44, No. 2 (Jun., 1993), pp. 187-203.&lt;/li&gt;
-&lt;li&gt;Woodward, James. &lt;em&gt;Making Things Happen: A Theory of Causal Explanation&lt;/em&gt;. Oxford: Oxford University Press, 2003.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-causal-powers&#34;&gt;Lecture 4: Causal Powers&lt;/h2&gt;
-
-&lt;p&gt;Recently, philosophers have shown renewed interest in an ontology of powers as offering the resources to explain causation. In this lecture we will look at a recent version of this proposal, and evaluate whether its explanation of causal asymmetry improves on regularity theories. &lt;a href=&#34;https://goo.gl/yxb0Pc&#34;&gt;Handout&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lowe, E.J. &amp;lsquo;Substance Causation, Powers, and Human Agency&amp;rsquo;, in: Sophie Gibb, E.J. Lowe and R.D. Ingthorsson (eds.), &lt;em&gt;Mental Causation and Ontology&lt;/em&gt;. Oxford: Oxford University Press, 2013, pp. 153-172.&lt;/li&gt;
-&lt;li&gt;Cartwright, Nancy. &lt;em&gt;Nature’s Capacities and Their Measurement&lt;/em&gt;. Oxford: Oxford University Press, 1989.&lt;/li&gt;
-&lt;li&gt;Marmodoro, Anna. &amp;lsquo;Aristotelian Powers at Work: Reciprocity without Symmetry in Causation&amp;rsquo;. In: Jonathan Jacobs (ed.) &lt;em&gt;Causal Powers&lt;/em&gt;. Oxford: Oxford University Press, in press.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mind Dependence</title>
-      <link>http://msteenhagen.github.io/teaching/2016mde/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://msteenhagen.github.io/teaching/2016mde/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;In this course we will consider how philosophers have defended the mind-dependence of some or all objects of experience. In its most extreme forms, such defences of mind-dependence result in Idealistic views about the nature of reality as we know it. But the more widely accepted distinction between primary and secondary qualities of experience equally reduces important features of the world to mere modifications of mind or experience. In this course we will consider different discussions about mind dependence, and consider whether arguments for the mind-dependence of some phenomenon are sound, and whether their conclusions are as problematic as some philosophers have claimed. We will begin by considering the discussion about primary and secondary qualities, and move on to contrast a Naïve Realism about the objects of experience with two forms of Idealism that have been proposed as surperior theories.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nolan, Lawrence (ed.). 2011. &lt;em&gt;Primary and Secondary Qualities: The Historical and Ongoing Debate&lt;/em&gt;, Oxford University Press, 2011.&lt;/li&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;Three Dialogues Between Hylas and Philonous&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Campbell, John and Quassim Cassam. &lt;em&gt;Berkeley&amp;rsquo;s Puzzle: What Does Experience Teach Us?&lt;/em&gt;. Oxford University Press, 2014.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://msteenhagen.github.io/teaching/2016mde/&#34;&gt;http://msteenhagen.github.io/teaching/2016mde/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 2-3. Lecture Block Room 1&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-drawing-the-primary-secondary-quality-distinction&#34;&gt;Lecture 1: Drawing the Primary/Secondary Quality distinction&lt;/h2&gt;
-
-&lt;p&gt;The qualities we experience objects to have are varied. But many philosophers think that we can distinguish two kinds of qualities: the primary ones and the secondary ones. In many ways the distinction between primary and secondary qualities still underpins much of our thinking about the mind, perception, and consciousness. In this lecture we will consider the motivations for the distinction, and different ways of drawing it. &lt;a href=&#34;https://goo.gl/QmwR3W&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nolan, Lawrence (ed.). 2011. &lt;em&gt;Primary and Secondary Qualities: The Historical and Ongoing Debate&lt;/em&gt;, Oxford University Press, 2011.&lt;/li&gt;
-&lt;li&gt;Burnyeat, Myles. &amp;lsquo;Conflicting Appearances&amp;rsquo;. &lt;em&gt;Proceedings of the British Academy&lt;/em&gt; 65 (1979): pp. 69-111.&lt;/li&gt;
-&lt;li&gt;Hyman, John. &lt;em&gt;The Objective Eye&lt;/em&gt;. University of Chicago Press, 2006. CHS 1-2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-undoing-the-primary-secondary-quality-distinction&#34;&gt;Lecture 2: Undoing the Primary/Secondary Quality distinction&lt;/h2&gt;
-
-&lt;p&gt;In this lecture we will consider in what ways one can resist the distinction between Primary and Secondary qualities. In &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;, Berkeley argues against the distinction, and concludes that both qualities are mind-dependent. Others agree that the distinction is suspect, but deny that either primary or secondary qualities are mind-dependent. &lt;a href=&#34;https://goo.gl/hBiyth&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Hyman, John. &lt;em&gt;The Objective Eye&lt;/em&gt;. University of Chicago Press, 2006. CHS 1-2&lt;/li&gt;
-&lt;li&gt;Martin, M.G.F. &amp;lsquo;What&amp;rsquo;s in a Look&amp;rsquo; in: Bence Nanay (ed.), &lt;em&gt;Perceiving the World&lt;/em&gt;. Oxford: Oxford University Press, 2010, pp. 160-225. (This is a long and difficult article.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-berkeley-s-puzzle&#34;&gt;Lecture 3: Berkeley&amp;rsquo;s Puzzle&lt;/h2&gt;
-
-&lt;p&gt;In this lecture we will discuss how Berkeley&amp;rsquo;s arguments seem to lead to a puzzle about our knowledge of a mind-independent world. If sensory experience only affords us knowledge of what it is like to experience the world, then how can we ever know what the world is like independent of the mind? &lt;a href=&#34;https://goo.gl/G99RPF&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;George Berkeley, &lt;em&gt;The Principles of Human Knowledge&lt;/em&gt;. Also available online at: www.dawsonera.com.&lt;/li&gt;
-&lt;li&gt;Campbell, John and Quassim Cassam. &lt;em&gt;Berkeley&amp;rsquo;s Puzzle: What Does Experience Teach Us?&lt;/em&gt;. Oxford University Press, 2014.&lt;/li&gt;
-&lt;li&gt;Rickless, Samuel C. &amp;lsquo;The Argument for Idealism in the First Dialogue&amp;rsquo; In &lt;em&gt;Berkeley’s Argument for Idealism&lt;/em&gt;. Oxford University Press, 2013, pp. 138–87.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-idealism&#34;&gt;Lecture 4: Idealism&lt;/h2&gt;
-
-&lt;p&gt;If all objects of perception and knowledge are mind-dependent, then it seems idealism is true. In this lecture we consider different types of idealism, their motivations, and which is ultimately the most attractive. &lt;a href=&#34;https://goo.gl/Z1b33z&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Foster, John. &amp;lsquo;The Succinct Case for Idealism&amp;rsquo; in Howard Robinson (ed.) &lt;em&gt;Objections to Physicalism&lt;/em&gt;. Oxford: Clarendon Press, 1994, pp. 293–315.&lt;/li&gt;
-&lt;li&gt;Moore, G.E. &amp;lsquo;The Refutation of Idealism&amp;rsquo;, &lt;em&gt;Mind&lt;/em&gt;, New Series, 12, no. 48 (1903), pp. 433–53.&lt;/li&gt;
-&lt;li&gt;Russell, Bertrand. &amp;lsquo;Idealism&amp;rsquo; In &lt;em&gt;The Problems of Philosophy&lt;/em&gt;. Williams and Norgate, 1912.&lt;/li&gt;
-&lt;li&gt;Sprigge, Timothy. &amp;lsquo;Idealism&amp;rsquo; in Richard M. Gale (ed.) &lt;em&gt;The Blackwell Guide to Metaphysics&lt;/em&gt;, 1998, pp. 219–41. doi:10.&lt;sup&gt;1002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9780470998984&lt;/sub&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>_This is the course page for a course taught in 2017. For the 2018 version, please consult: http://msteenhagen.github.io/teaching/2018cau
+Course description The relation between causes and effects is typically taken to be asymmetric. Whenever C is a cause of E, then E is not a cause of C. But how do we explain this feature? What kind of asymmetry is this? Not all philosophical analyses of causation capture the concept of causal asymmetry equally well.</description>
     </item>
     
     <item>
@@ -491,88 +75,16 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016mam/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These lectures will introduce the mind-body problem: the problem of the relation between mind and matter, or mind and body. We will consider the nature of mental life and physical processes, and the competing doctrines of dualism and materialism/physicalism. The nature of mind poses a dilemma for philosophy. If the mind is not physical, then how can it have effects in the physical world? But if the mind is physical, then how can we explain consciousness?&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Crane, Tim, The Mechanical Mind. 2nd ed. (London: Routledge, 2003).&lt;/li&gt;
-&lt;li&gt;Ryle, Gilbert, The Concept of Mind (London: Hutchinson, 1949).&lt;/li&gt;
-&lt;li&gt;Descartes, Rene, Meditations on First Philosophy, 2nd and 6th Meditations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2016mam/&#34;&gt;http://msteenhagen.github.io/teaching/2016mam/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Friday 12-1pm. Lecture Block Room 5&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-distinction-between-mind-and-matter&#34;&gt;Lecture 1: The distinction between mind and matter&lt;/h2&gt;
-
-&lt;p&gt;Descartes famously proposed to conceive of mind and matter as distinct substances. What does this mean? Why should we accept this dualist theory? And what consequences does it have? &lt;a href=&#34;https://goo.gl/49ueG2&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Descartes, René. &lt;em&gt;Meditations on First Philosophy&lt;/em&gt;, 2nd and 6th Meditations&lt;/li&gt;
-&lt;li&gt;Rozemond, Marleen (2008). &amp;ldquo;Descartes&amp;rsquo; Dualism&amp;rdquo; in Janet Broughton John Carriero (eds.) &lt;em&gt;A Companion to Descartes&lt;/em&gt; (Oxford: Blackwell).&lt;/li&gt;
-&lt;li&gt;Crane, Tim and Kati Farkas, (2004). &amp;lsquo;Introduction to part IX&amp;rsquo; in Tim Crane and Katalin Farkas (eds.) &lt;em&gt;Metaphysics: a Guide and Anthology&lt;/em&gt; (Oxford University Press).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-the-problem-of-mental-causation&#34;&gt;Lecture 2: The problem of mental causation&lt;/h2&gt;
-
-&lt;p&gt;One of the classical problems with a dualist theory is how the material world can impact on an immaterial soul, and how the soul in turn is able to change material reality. Can the problem of mental causation be solved? And if not, is the problem fatal for every kind of dualism? &lt;a href=&#34;https://goo.gl/LxhTyP&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fodor, Jerry (1994) &amp;lsquo;The mind-body problem’ in Szubka and Warner (eds.) &lt;em&gt;The Mind-Body Problem&lt;/em&gt; (Oxford: Blackwell).&lt;/li&gt;
-&lt;li&gt;Campbell, Keith (1970). &lt;em&gt;Body and Mind&lt;/em&gt; (Anchor Books). (read the first section)&lt;/li&gt;
-&lt;li&gt;Crane, Tim. ‘Mental Causation’, accessible via the online pages section at www.timcrane.com&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-materialism-and-physicalism&#34;&gt;Lecture 3: Materialism and Physicalism&lt;/h2&gt;
-
-&lt;p&gt;Those who reject a dualist theory typically adopt a form of materialism or physicalism. What does this mean? Why should we accept a physicalist theory of mind, and what are its consequences? &lt;a href=&#34;https://goo.gl/i3t0Ba&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Smart, JJC (1959). &amp;lsquo;Sensations and Brain Processes&amp;rsquo;, &lt;em&gt;Philosophical Review&lt;/em&gt;, 68, reprinted in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt; (Oxford University Press).&lt;/li&gt;
-&lt;li&gt;Armstrong, D.M. ‘The Causal Theory of Mind’ in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Putnam, Hilary ‘The Nature of Mental States’ in Chalmers (ed.) &lt;em&gt;Philosophy of Mind&lt;/em&gt;.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-the-problem-of-consciousness&#34;&gt;Lecture 4: The problem of consciousness&lt;/h2&gt;
-
-&lt;p&gt;One of the classical problems with a physicalist theory is how the material world can give rise to subjective experience or consciousness. Can the problem of consciousness be solved? And if not, is the problem fatal for every kind of materialism? &lt;a href=&#34;https://goo.gl/azWalo&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jackson, Frank (1982). ‘Epiphenomenal Qualia’ &lt;em&gt;Philosophical Quarterly&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Nagel, Thomas (1974). ‘What is it Like to be a Bat?’ &lt;em&gt;Philosophical Review&lt;/em&gt;, 83, reprinted in his &lt;em&gt;Mortal Questions&lt;/em&gt; (Cambridge University Press) and in Crane and Farkas (eds.) &lt;em&gt;Metaphysics: a Guide and Anthology&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Anthony, Louise (2008). ‘The Mental and the Physical’ in &lt;em&gt;Routledge Companion to Metaphysics&lt;/em&gt; (London: Routledge).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These lectures will introduce the mind-body problem: the problem of the relation between mind and matter, or mind and body. We will consider the nature of mental life and physical processes, and the competing doctrines of dualism and materialism/physicalism. The nature of mind poses a dilemma for philosophy. If the mind is not physical, then how can it have effects in the physical world? But if the mind is physical, then how can we explain consciousness?</description>
+    </item>
+    
+    <item>
+      <title>Mind Dependence</title>
+      <link>http://msteenhagen.github.io/teaching/2016mde/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://msteenhagen.github.io/teaching/2016mde/</guid>
+      <description>Course description In this course we will consider how philosophers have defended the mind-dependence of some or all objects of experience. In its most extreme forms, such defences of mind-dependence result in Idealistic views about the nature of reality as we know it. But the more widely accepted distinction between primary and secondary qualities of experience equally reduces important features of the world to mere modifications of mind or experience.</description>
     </item>
     
     <item>
@@ -581,66 +93,8 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/teaching/2016per/</guid>
-      <description>
-
-&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
-
-&lt;p&gt;These four lectures will consider the nature and persistence of persons over time. A particular focus will be on the recent debate about Animalism. The lectures will cover the Part 2 syllabus materials on Persons for the paper on Metaphysics. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
-
-&lt;h4 id=&#34;general-reading&#34;&gt;General reading&lt;/h4&gt;
-
-&lt;p&gt;Those looking for an introduction may consult the Stanford Encyclopedia, which has a useful &lt;a href=&#34;http://plato.stanford.edu/entries/animalism/&#34;&gt;entry on Animalism&lt;/a&gt;. An excellent collection of essays about Animalism is: Stephen Blatti and Paul F. Snowdon, eds. (2016), &lt;em&gt;Animalism: New Essays on Persons, Animals, &amp;amp; Identity&lt;/em&gt;, Oxford: Oxford University Press. [&lt;a href=&#34;http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199608751.001.0001/acprof-9780199608751&#34;&gt;Access via Oxford Scholarship Online&lt;/a&gt;]&lt;/p&gt;
-
-&lt;h4 id=&#34;online-resources&#34;&gt;Online resources&lt;/h4&gt;
-
-&lt;p&gt;Outlines and handouts will be made available on: &lt;a href=&#34;http://msteenhagen.github.io/teaching/2016per/&#34;&gt;http://msteenhagen.github.io/teaching/2016per/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;where-and-when&#34;&gt;Where and when&lt;/h4&gt;
-
-&lt;p&gt;Tuesday 1-2. Lecture Block Room 9&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-1-the-life-of-a-person&#34;&gt;Lecture 1: The Life of a Person&lt;/h2&gt;
-
-&lt;p&gt;Are you essentially alive? This lecture will discuss the role leading a life plays in our understanding of the nature and persistence conditions of persons. &lt;a href=&#34;https://goo.gl/FrthiX&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Richard Wollheim (1984), &amp;lsquo;Living,&amp;rsquo; in &lt;em&gt;The Thread of Life&lt;/em&gt;. Cambridge: Cambridge University Press, 1-32. (&lt;a href=&#34;http://msteenhagen.github.io/pdf/wollheim-tol-ch1.pdf&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-2-animalism&#34;&gt;Lecture 2: Animalism&lt;/h2&gt;
-
-&lt;p&gt;What if we are animals? This lecture will consider the prospects of a theory of the persistence of persons in terms of an identity relation between the person and an animal. Special attention will be paid to the different versions of Animalism. &lt;a href=&#34;https://goo.gl/DeEgYr&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-1&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Eric Olson (2003), &amp;lsquo;An Argument for Animalism,&amp;rsquo; in &lt;em&gt;Personal Identity&lt;/em&gt;. R. Martin and J. Barresi (eds.), Oxford: Blackwell, pp. 318–34.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-3-remnant-persons&#34;&gt;Lecture 3: Remnant Persons&lt;/h2&gt;
-
-&lt;p&gt;How much of a person&amp;rsquo;s body can be safely removed? This lecture will consider some of the most pressing questions facing the Animalist theory, especially the way in which Animalism has difficulty accounting for leftover persons. &lt;a href=&#34;https://goo.gl/fF0Heb&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-2&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Mark Johnston (2007), &amp;lsquo;&amp;ldquo;Human Beings&amp;rdquo; Revisited: My Body is Not an Animal,&amp;rsquo; in &lt;em&gt;Oxford Studies in Metaphysics&lt;/em&gt;, vol. 3, D.W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 33–74.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;lecture-4-dead-animals&#34;&gt;Lecture 4: Dead Animals&lt;/h2&gt;
-
-&lt;p&gt;What is the significance of death for the life and existence of a person? This lecture will consider the view that animals are not essentially alive. &lt;a href=&#34;https://goo.gl/cyODwv&#34;&gt;(Handout)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;suggested-reading-3&#34;&gt;Suggested Reading&lt;/h5&gt;
-
-&lt;p&gt;Paul Snowdon (2014), &amp;lsquo;Animalism and the Lives of Human Animals,&amp;rsquo; &lt;em&gt;South J Philos&lt;/em&gt; (52), 171–184. doi:10.1111/sjp.12074&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Course description These four lectures will consider the nature and persistence of persons over time. A particular focus will be on the recent debate about Animalism. The lectures will cover the Part 2 syllabus materials on Persons for the paper on Metaphysics. Feel free to contact me at ms2416@cam.ac.uk if you have any suggestions, questions, or comments about this course.
+General reading Those looking for an introduction may consult the Stanford Encyclopedia, which has a useful entry on Animalism.</description>
     </item>
     
   </channel>

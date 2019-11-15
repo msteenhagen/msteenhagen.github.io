@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on msteenhagen</title>
-    <link>http://msteenhagen.github.io/project/index.xml</link>
+    <link>http://msteenhagen.github.io/project/</link>
     <description>Recent content in Projects on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://msteenhagen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://msteenhagen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mediated Objects of Perception</title>
@@ -16,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/project/perceptual-mediation/</guid>
-      <description></description>
+      <description>People can directly apprehend objects in perception. They can also exploit intermediaries to perceive objects with which they are not in physical contact. By its sputter I can hear a distant car; through its foul odour I can smell the spoilt food. But how can the mind direct itself to something via something else? This project answers this question by investigating the intentionality of perception.</description>
     </item>
     
     <item>
@@ -25,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/project/philosophical-optics/</guid>
-      <description></description>
+      <description>Current theories of vision hardly consider the findings and principles of optics, the study of light, or the properties of mirrors and media. This is because today it is assumed that the methods of the study of perception are those of psychology, or the cognitive sciences more broadly. In this project I show how both psychology and philosophy should give optics a more central place in the study of perception.</description>
     </item>
     
   </channel>

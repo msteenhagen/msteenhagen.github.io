@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on msteenhagen</title>
-    <link>http://msteenhagen.github.io/home/index.xml</link>
+    <link>http://msteenhagen.github.io/home/</link>
     <description>Recent content in Homes on msteenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 M. Steenhagen</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://msteenhagen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://msteenhagen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>about</title>
@@ -16,16 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://msteenhagen.github.io/home/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;perception-and-representation&#34;&gt;Perception and representation&lt;/h1&gt;
-
-&lt;p&gt;Maarten Steenhagen is a researcher in the Department of Philosophy at Uppsala University. Prior to coming to Uppsala he worked as a lecturer at the University of Cambridge and was a Bye-Fellow of Queens&amp;rsquo; College.&lt;/p&gt;
-
-&lt;p&gt;His current research focuses on perception and aesthetics. In particular, he concentrates on the metaphysics and normativity of appearances. He also writes about the role of perceptual media in experience&amp;mdash;such as sounds, images, and optical technology. His articles and papers cover the experience of sounds, images, and mirror perception, as well as evaluations of the different theories of perception.&lt;/p&gt;
-
-&lt;p&gt;In addition to his work on perception, Steenhagen is interested in the history of 20th century philosophy, in particular the controversies about philosophical method and the presuppositions and value of analysis in philosophy.&lt;/p&gt;
-</description>
+      <description>Perception and representation Maarten Steenhagen is a researcher in the Department of Philosophy at Uppsala University. Prior to coming to Uppsala he worked as a lecturer at the University of Cambridge and was a Bye-Fellow of Queens&amp;rsquo; College.
+His current research focuses on perception and aesthetics. In particular, he concentrates on the metaphysics and normativity of appearances. He also writes about the role of perceptual media in experience&amp;mdash;such as sounds, images, and optical technology.</description>
     </item>
     
   </channel>
