@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argumentation | M. Steenhagen</title>
+    <link>/tags/argumentation/</link>
+      <atom:link href="/tags/argumentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Argumentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 03 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Argumentation</title>
+      <link>/tags/argumentation/</link>
+    </image>
+    
+    <item>
+      <title>Against Adversarial Discussion</title>
+      <link>/publication/cbis-2016/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cbis-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | M. Steenhagen</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Reflection and Refraction</title>
+      <link>/talk/mirrors-turin-2019/</link>
+      <pubDate>Fri, 15 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/mirrors-turin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy in the Mirror</title>
+      <link>/talk/qms-2018/</link>
+      <pubDate>Thu, 22 Feb 2018 18:00:00 +0000</pubDate>
+      <guid>/talk/qms-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mere Appearances</title>
+      <link>/talk/fribourgh-2017/</link>
+      <pubDate>Fri, 08 Sep 2017 09:00:00 +0000</pubDate>
+      <guid>/talk/fribourgh-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | M. Steenhagen</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Must naive realists be relationalists?</title>
+      <link>/publication/ejp-2019/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ejp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False Reflections</title>
+      <link>/publication/philstudies-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/philstudies-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Against Adversarial Discussion</title>
+      <link>/publication/cbis-2016/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cbis-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
