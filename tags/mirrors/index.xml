@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mirrors | M. Steenhagen</title>
-    <link>/tags/mirrors/</link>
-      <atom:link href="/tags/mirrors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/tags/mirrors/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/mirrors/index.xml" rel="self" type="application/rss+xml" />
     <description>Mirrors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Mirrors</title>
-      <link>/tags/mirrors/</link>
+      <link>https://msteenhagen.github.io/tags/mirrors/</link>
     </image>
     
     <item>
       <title>False Reflections</title>
-      <link>/publication/philstudies-2017/</link>
+      <link>https://msteenhagen.github.io/publication/philstudies-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/philstudies-2017/</guid>
+      <guid>https://msteenhagen.github.io/publication/philstudies-2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | M. Steenhagen</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/authors/</link>
+      <atom:link href="https://msteenhagen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://msteenhagen.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://msteenhagen.github.io/authors/admin/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://msteenhagen.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Maarten Steenhagen is a researcher in the Department of Philosophy at Uppsala University. Prior to coming to Uppsala he worked as a lecturer at the University of Cambridge and was a Bye-Fellow of Queens&amp;rsquo; College.&lt;/p&gt;
 &lt;p&gt;His current research focuses on perception and aesthetics. In particular, he concentrates on the metaphysics and normativity of appearances. He also writes about the role of perceptual media in experience&amp;mdash;such as sounds, images, and optical technology. His articles and papers cover the experience of sounds, images, and mirror perception, as well as evaluations of the different theories of perception.&lt;/p&gt;
 &lt;p&gt;In addition to his work on perception, Steenhagen is interested in the history of 20th century philosophy, in particular the controversies about philosophical method and the presuppositions and value of analysis in philosophy.&lt;/p&gt;

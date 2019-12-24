@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | M. Steenhagen</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/publication/</link>
+      <atom:link href="https://msteenhagen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://msteenhagen.github.io/publication/</link>
     </image>
     
     <item>
       <title>Must naive realists be relationalists?</title>
-      <link>/publication/ejp-2019/</link>
+      <link>https://msteenhagen.github.io/publication/ejp-2019/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ejp-2019/</guid>
+      <guid>https://msteenhagen.github.io/publication/ejp-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False Reflections</title>
-      <link>/publication/philstudies-2017/</link>
+      <link>https://msteenhagen.github.io/publication/philstudies-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/philstudies-2017/</guid>
+      <guid>https://msteenhagen.github.io/publication/philstudies-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Against Adversarial Discussion</title>
-      <link>/publication/cbis-2016/</link>
+      <link>https://msteenhagen.github.io/publication/cbis-2016/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cbis-2016/</guid>
+      <guid>https://msteenhagen.github.io/publication/cbis-2016/</guid>
       <description></description>
     </item>
     

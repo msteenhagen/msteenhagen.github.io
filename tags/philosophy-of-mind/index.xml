@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy of Mind | M. Steenhagen</title>
-    <link>/tags/philosophy-of-mind/</link>
-      <atom:link href="/tags/philosophy-of-mind/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/tags/philosophy-of-mind/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/philosophy-of-mind/index.xml" rel="self" type="application/rss+xml" />
     <description>Philosophy of Mind</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Philosophy of Mind</title>
-      <link>/tags/philosophy-of-mind/</link>
+      <link>https://msteenhagen.github.io/tags/philosophy-of-mind/</link>
     </image>
     
     <item>
       <title>Qualities</title>
-      <link>/project/qualities/</link>
+      <link>https://msteenhagen.github.io/project/qualities/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/project/qualities/</guid>
+      <guid>https://msteenhagen.github.io/project/qualities/</guid>
       <description>&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
 &lt;p&gt;These four lectures will talk about qualities. We will discuss the distinction between primary and secondary qualities, dispositional theories of colour, response-dependence concepts, the missing explanation argument, and a more simple view of colour or secondary qualities more generally.&lt;/p&gt;
 &lt;h5 id=&#34;suggested-general-reading&#34;&gt;Suggested general reading&lt;/h5&gt;

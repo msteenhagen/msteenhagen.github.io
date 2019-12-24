@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | M. Steenhagen</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/tags/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://msteenhagen.github.io/tags/</link>
     </image>
     
     <item>
       <title>Appearances</title>
-      <link>/tags/appearances/</link>
+      <link>https://msteenhagen.github.io/tags/appearances/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/appearances/</guid>
+      <guid>https://msteenhagen.github.io/tags/appearances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naive Realism</title>
-      <link>/tags/naive-realism/</link>
+      <link>https://msteenhagen.github.io/tags/naive-realism/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/naive-realism/</guid>
+      <guid>https://msteenhagen.github.io/tags/naive-realism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception</title>
-      <link>/tags/perception/</link>
+      <link>https://msteenhagen.github.io/tags/perception/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/perception/</guid>
+      <guid>https://msteenhagen.github.io/tags/perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cambridge</title>
-      <link>/tags/cambridge/</link>
+      <link>https://msteenhagen.github.io/tags/cambridge/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/cambridge/</guid>
+      <guid>https://msteenhagen.github.io/tags/cambridge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lent 2019</title>
-      <link>/tags/lent-2019/</link>
+      <link>https://msteenhagen.github.io/tags/lent-2019/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/lent-2019/</guid>
+      <guid>https://msteenhagen.github.io/tags/lent-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metaphysics</title>
-      <link>/tags/metaphysics/</link>
+      <link>https://msteenhagen.github.io/tags/metaphysics/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/metaphysics/</guid>
+      <guid>https://msteenhagen.github.io/tags/metaphysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy of Mind</title>
-      <link>/tags/philosophy-of-mind/</link>
+      <link>https://msteenhagen.github.io/tags/philosophy-of-mind/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/philosophy-of-mind/</guid>
+      <guid>https://msteenhagen.github.io/tags/philosophy-of-mind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/tags/teaching/</link>
+      <link>https://msteenhagen.github.io/tags/teaching/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/teaching/</guid>
+      <guid>https://msteenhagen.github.io/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy of Language</title>
-      <link>/tags/philosophy-of-language/</link>
+      <link>https://msteenhagen.github.io/tags/philosophy-of-language/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/philosophy-of-language/</guid>
+      <guid>https://msteenhagen.github.io/tags/philosophy-of-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mirrors</title>
-      <link>/tags/mirrors/</link>
+      <link>https://msteenhagen.github.io/tags/mirrors/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/mirrors/</guid>
+      <guid>https://msteenhagen.github.io/tags/mirrors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Argumentation</title>
-      <link>/tags/argumentation/</link>
+      <link>https://msteenhagen.github.io/tags/argumentation/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/argumentation/</guid>
+      <guid>https://msteenhagen.github.io/tags/argumentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophical Method</title>
-      <link>/tags/philosophical-method/</link>
+      <link>https://msteenhagen.github.io/tags/philosophical-method/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/philosophical-method/</guid>
+      <guid>https://msteenhagen.github.io/tags/philosophical-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.G. Collingwood</title>
-      <link>/tags/r.g.-collingwood/</link>
+      <link>https://msteenhagen.github.io/tags/r.g.-collingwood/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/r.g.-collingwood/</guid>
+      <guid>https://msteenhagen.github.io/tags/r.g.-collingwood/</guid>
       <description></description>
     </item>
     

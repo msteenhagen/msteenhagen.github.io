@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophical Method | M. Steenhagen</title>
-    <link>/tags/philosophical-method/</link>
-      <atom:link href="/tags/philosophical-method/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/tags/philosophical-method/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/philosophical-method/index.xml" rel="self" type="application/rss+xml" />
     <description>Philosophical Method</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 03 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Philosophical Method</title>
-      <link>/tags/philosophical-method/</link>
+      <link>https://msteenhagen.github.io/tags/philosophical-method/</link>
     </image>
     
     <item>
       <title>Against Adversarial Discussion</title>
-      <link>/publication/cbis-2016/</link>
+      <link>https://msteenhagen.github.io/publication/cbis-2016/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cbis-2016/</guid>
+      <guid>https://msteenhagen.github.io/publication/cbis-2016/</guid>
       <description></description>
     </item>
     

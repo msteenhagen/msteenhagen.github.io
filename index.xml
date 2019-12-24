@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Steenhagen</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/</link>
+      <atom:link href="https://msteenhagen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Steenhagen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>M. Steenhagen</title>
-      <link>/</link>
+      <link>https://msteenhagen.github.io/</link>
     </image>
     
     <item>
       <title>Reflection and Refraction</title>
-      <link>/talk/mirrors-turin-2019/</link>
+      <link>https://msteenhagen.github.io/talk/mirrors-turin-2019/</link>
       <pubDate>Fri, 15 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/mirrors-turin-2019/</guid>
+      <guid>https://msteenhagen.github.io/talk/mirrors-turin-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Must naive realists be relationalists?</title>
-      <link>/publication/ejp-2019/</link>
+      <link>https://msteenhagen.github.io/publication/ejp-2019/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ejp-2019/</guid>
+      <guid>https://msteenhagen.github.io/publication/ejp-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qualities</title>
-      <link>/project/qualities/</link>
+      <link>https://msteenhagen.github.io/project/qualities/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/project/qualities/</guid>
+      <guid>https://msteenhagen.github.io/project/qualities/</guid>
       <description>&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
 &lt;p&gt;These four lectures will talk about qualities. We will discuss the distinction between primary and secondary qualities, dispositional theories of colour, response-dependence concepts, the missing explanation argument, and a more simple view of colour or secondary qualities more generally.&lt;/p&gt;
 &lt;h5 id=&#34;suggested-general-reading&#34;&gt;Suggested general reading&lt;/h5&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>Verificationism</title>
-      <link>/project/verificationism/</link>
+      <link>https://msteenhagen.github.io/project/verificationism/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project/verificationism/</guid>
+      <guid>https://msteenhagen.github.io/project/verificationism/</guid>
       <description>&lt;h4 id=&#34;course-description&#34;&gt;Course description&lt;/h4&gt;
 &lt;p&gt;What is the connection between the meaning of a sentence and its verification conditions? This series of four lectures will present the motivations and fate of the early-twentieth century verification theory of meaning.&lt;/p&gt;
 &lt;p&gt;Feel free to contact me if you have any suggestions, questions, or comments about this course.&lt;/p&gt;
@@ -141,33 +141,33 @@
     
     <item>
       <title>Philosophy in the Mirror</title>
-      <link>/talk/qms-2018/</link>
+      <link>https://msteenhagen.github.io/talk/qms-2018/</link>
       <pubDate>Thu, 22 Feb 2018 18:00:00 +0000</pubDate>
-      <guid>/talk/qms-2018/</guid>
+      <guid>https://msteenhagen.github.io/talk/qms-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mere Appearances</title>
-      <link>/talk/fribourgh-2017/</link>
+      <link>https://msteenhagen.github.io/talk/fribourgh-2017/</link>
       <pubDate>Fri, 08 Sep 2017 09:00:00 +0000</pubDate>
-      <guid>/talk/fribourgh-2017/</guid>
+      <guid>https://msteenhagen.github.io/talk/fribourgh-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False Reflections</title>
-      <link>/publication/philstudies-2017/</link>
+      <link>https://msteenhagen.github.io/publication/philstudies-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/philstudies-2017/</guid>
+      <guid>https://msteenhagen.github.io/publication/philstudies-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Against Adversarial Discussion</title>
-      <link>/publication/cbis-2016/</link>
+      <link>https://msteenhagen.github.io/publication/cbis-2016/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cbis-2016/</guid>
+      <guid>https://msteenhagen.github.io/publication/cbis-2016/</guid>
       <description></description>
     </item>
     

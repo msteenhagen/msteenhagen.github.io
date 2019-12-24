@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perception | M. Steenhagen</title>
-    <link>/tags/perception/</link>
-      <atom:link href="/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://msteenhagen.github.io/tags/perception/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/perception/index.xml" rel="self" type="application/rss+xml" />
     <description>Perception</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Perception</title>
-      <link>/tags/perception/</link>
+      <link>https://msteenhagen.github.io/tags/perception/</link>
     </image>
     
     <item>
       <title>Must naive realists be relationalists?</title>
-      <link>/publication/ejp-2019/</link>
+      <link>https://msteenhagen.github.io/publication/ejp-2019/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ejp-2019/</guid>
+      <guid>https://msteenhagen.github.io/publication/ejp-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False Reflections</title>
-      <link>/publication/philstudies-2017/</link>
+      <link>https://msteenhagen.github.io/publication/philstudies-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/philstudies-2017/</guid>
+      <guid>https://msteenhagen.github.io/publication/philstudies-2017/</guid>
       <description></description>
     </item>
     
