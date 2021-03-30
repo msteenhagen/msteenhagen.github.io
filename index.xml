@@ -5,12 +5,28 @@
     <link>https://msteenhagen.github.io/</link>
       <atom:link href="https://msteenhagen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maarten Steenhagen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 15 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://msteenhagen.github.io/img/icon-192.png</url>
       <title>Maarten Steenhagen</title>
       <link>https://msteenhagen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Fictional Creations</title>
+      <link>https://msteenhagen.github.io/publication/jaac-2021/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://msteenhagen.github.io/publication/jaac-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sense and Reference of Pictures</title>
+      <link>https://msteenhagen.github.io/publication/bja-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://msteenhagen.github.io/publication/bja-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reflection and Refraction</title>

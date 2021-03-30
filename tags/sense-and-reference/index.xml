@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sense and Reference | Maarten Steenhagen</title>
+    <link>https://msteenhagen.github.io/tags/sense-and-reference/</link>
+      <atom:link href="https://msteenhagen.github.io/tags/sense-and-reference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sense and Reference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2015-2020</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://msteenhagen.github.io/img/icon-192.png</url>
+      <title>Sense and Reference</title>
+      <link>https://msteenhagen.github.io/tags/sense-and-reference/</link>
+    </image>
+    
+    <item>
+      <title>Sense and Reference of Pictures</title>
+      <link>https://msteenhagen.github.io/publication/bja-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://msteenhagen.github.io/publication/bja-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
